@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1134.529"
+   height="506.85"
+   viewBox="-0.5 -0.5 1134.529 506.85"
+   version="1.1"
+   id="svg202"
+   sodipodi:docname="C04Restricciones-Anim-optim.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs206" />
+  <sodipodi:namedview
+     id="namedview204"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.316975"
+     inkscape:cx="452.9319"
+     inkscape:cy="242.98107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1094"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg202" />
+  <path
+     d="m266.355 163.198-13.486-33.92-253.369-.54-13.486 34.46 12.869 34.46h254.603Z"
+     style="fill:none;fill-opacity:.546618;stroke:#6122e4;stroke-width:2.70000021;stroke-miterlimit:4.4;stroke-dasharray:none"
+     id="path2" />
+  <path
+     d="m399.957 163.194-6.443-34.1-121.044-.543-6.443 34.643 6.148 34.643h121.633Z"
+     style="fill:none;fill-opacity:.546618;stroke:#6122e4;stroke-width:1.25973;stroke-miterlimit:4.4"
+     id="path4" />
+  <text
+     xml:space="preserve"
+     x="138.047"
+     y="145.315"
+     style="font-size:18.6667px;font-family:&quot;Berlin Sans FB&quot;;-inkscape-font-specification:&quot;Berlin Sans FB&quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.546618;stroke:#000;stroke-width:2.19969;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="text12"><tspan
+       x="138.047"
+       y="145.315"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan6">Salida </tspan><tspan
+       x="138.047"
+       y="169.377"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan8">estable</tspan><tspan
+       x="138.047"
+       y="193.439"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan10">Q1</tspan></text>
+  <text
+     xml:space="preserve"
+     x="549.891"
+     y="146.319"
+     style="font-size:18.6667px;font-family:&quot;Berlin Sans FB&quot;;-inkscape-font-specification:&quot;Berlin Sans FB&quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.546618;stroke:#000;stroke-width:2.19969;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="text20"><tspan
+       x="549.891"
+       y="146.319"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan14">Salida </tspan><tspan
+       x="549.891"
+       y="170.381"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan16">estable</tspan><tspan
+       x="549.891"
+       y="194.443"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan18">Q1</tspan></text>
+  <text
+     xml:space="preserve"
+     x="1010.638"
+     y="146.404"
+     style="font-size:18.6667px;font-family:&quot;Berlin Sans FB&quot;;-inkscape-font-specification:&quot;Berlin Sans FB&quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.546618;stroke:#000;stroke-width:2.19969;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="text28"><tspan
+       x="1010.638"
+       y="146.404"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan22">Salida </tspan><tspan
+       x="1010.638"
+       y="170.466"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan24">estable</tspan><tspan
+       x="1010.638"
+       y="194.528"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan26">Q1</tspan></text>
+  <path
+     d="m278.175 128.633 18.543 69.204 18.544-69.204 18.498 69.037 18.499-69.037 18.454 68.871 18.454-68.871"
+     style="fill:none;fill-opacity:.546618;stroke:purple;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="path30" />
+  <path
+     d="m278.175 197.837 18.543-69.204 18.544 69.204 18.498-69.038 18.499 69.038 18.454-68.872 18.454 68.872"
+     style="fill:none;fill-opacity:.546618;stroke:purple;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="path32" />
+  <path
+     d="m705.745 197.77 7.568-34.572-7.93-34.03h-148.97l-148.97-.542-7.931 34.572 7.567 34.572h149.333z"
+     style="fill:none;fill-opacity:.546618;stroke:#6122e4;stroke-width:2.70000021;stroke-miterlimit:4.4;stroke-dasharray:none"
+     id="path34" />
+  <path
+     d="m848.696 162.772-6.443-34.1-121.044-.543-6.443 34.643 6.148 34.643h121.633z"
+     style="fill:none;fill-opacity:.546618;stroke:#6122e4;stroke-width:1.25973;stroke-miterlimit:4.4"
+     id="path36" />
+  <path
+     d="m1166.374 162.776-15.194-33.764-285.454-.539-15.194 34.303 14.499 34.302h286.844z"
+     style="fill:none;fill-opacity:.546618;stroke:#6122e4;stroke-width:2.70000021;stroke-miterlimit:4.4;stroke-dasharray:none"
+     id="path38" />
+  <path
+     d="m726.914 128.21 18.543 69.205L764 128.21l18.499 69.037 18.499-69.037 18.454 68.871 18.454-68.871"
+     style="fill:none;fill-opacity:.546618;stroke:purple;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="path40" />
+  <path
+     d="m726.914 197.415 18.543-69.204L764 197.415l18.499-69.038 18.499 69.038 18.454-68.872 18.454 68.872"
+     style="fill:none;fill-opacity:.546618;stroke:purple;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="path42" />
+  <path
+     d="M226.385 87.584h23.89v148.023h-23.89z"
+     style="fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="path44" />
+  <path
+     d="m922.028 290.413-19.149-33.507-359.742-.534-19.148 34.041 18.272 34.042h361.494z"
+     style="fill:none;fill-opacity:.546618;stroke:#6122e4;stroke-width:3.25954;stroke-miterlimit:4.4;stroke-dasharray:none"
+     id="path46" />
+  <text
+     xml:space="preserve"
+     x="659.669"
+     y="289.537"
+     style="font-size:19.7661px;font-family:&quot;Berlin Sans FB&quot;;-inkscape-font-specification:&quot;Berlin Sans FB&quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.546618;stroke:#000;stroke-width:2.32925;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     transform="scale(1.06036 .94308)"
+     id="text54"><tspan
+       x="659.669"
+       y="289.537"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none;stroke-width:2.32925"
+       id="tspan48">Salida </tspan><tspan
+       x="659.669"
+       y="315.017"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none;stroke-width:2.32925"
+       id="tspan50">estable</tspan><tspan
+       x="659.669"
+       y="340.496"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none;stroke-width:2.32925"
+       id="tspan52">Circuito Comb</tspan></text>
+  <path
+     d="M 1133.66,68.759 908.399,68.143 V 1.067 H 679.058 V 68.143 H 454.471 V 1.067 H 225.13 V 68.759 L -0.496,68.143 m 2042.684,0.616 -225.26,-0.616 V 1.067 h -229.34 V 68.143 H 1363 V 1.067 h -229.34 v 67.692 -0.308 -0.308 m 1817.423,0.616 -225.625,-0.616 V 1.067 H 2496.116 V 68.143 H 2271.53 V 1.067 H 2042.188 V 68.759 68.7205 68.682 68.6435 68.605 68.5665 68.528 68.4895 68.451 68.4125 68.374 68.3355 68.297 68.2585 68.22 68.1815 68.143"
+     style="fill:none;fill-opacity:0.546618;stroke:#6122e4;stroke-width:3.13334;stroke-miterlimit:4.4"
+     id="path56"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccc" />
+  <path
+     d="M226.385 112.766h180.139v99.029H226.385z"
+     style="fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="path58" />
+  <text
+     xml:space="preserve"
+     x="254.281"
+     y="83.601"
+     style="font-size:18.6667px;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="text62"><tspan
+       x="254.281"
+       y="83.601"
+       style="fill:purple;fill-opacity:.75"
+       id="tspan60">tccq</tspan></text>
+  <text
+     xml:space="preserve"
+     x="388.389"
+     y="107.64"
+     style="font-size:18.6667px;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="text66"><tspan
+       x="388.389"
+       y="107.64"
+       style="fill:purple;fill-opacity:.75"
+       id="tspan64">tpcq</tspan></text>
+  <path
+     d="M681.492 87.584h23.89v148.023h-23.89z"
+     style="fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="path68" />
+  <path
+     d="M681.492 112.766h188.069v99.029H681.492z"
+     style="fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.24759;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="path70" />
+  <path
+     d="M689.423 386.236h23.89v148.023h-23.89z"
+     style="fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="path72" />
+  <path
+     d="M689.423 411.418h180.139v99.029H689.423z"
+     style="fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="path74" />
+  <text
+     xml:space="preserve"
+     x="709.388"
+     y="83.601"
+     style="font-size:18.6667px;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="text78"><tspan
+       x="709.388"
+       y="83.601"
+       style="fill:purple;fill-opacity:.75"
+       id="tspan76">tccq</tspan></text>
+  <text
+     xml:space="preserve"
+     x="843.496"
+     y="107.64"
+     style="font-size:18.6667px;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="text82"><tspan
+       x="843.496"
+       y="107.64"
+       style="fill:purple;fill-opacity:.75"
+       id="tspan80">tpcq</tspan></text>
+  <path
+     d="m974.132 290.29-2.57-34.238-48.277-.545-2.57 34.784 2.452 34.784h48.513z"
+     style="fill:none;fill-opacity:.546618;stroke:#6122e4;stroke-width:.797191;stroke-miterlimit:4.4"
+     id="path84" />
+  <path
+     d="m1197.378 290.205-10.68-33.92-200.641-.54-10.68 34.46 10.191 34.46h201.619z"
+     style="fill:none;fill-opacity:.546618;stroke:#6122e4;stroke-width:2.70000021;stroke-miterlimit:4.4;stroke-dasharray:none"
+     id="path86" />
+  <path
+     d="m925.745 255.73 13.568 69.204 13.568-69.204 13.535 69.037"
+     style="fill:none;fill-opacity:.546618;stroke:purple;stroke-width:1.8816;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="path88" />
+  <path
+     d="m925.745 324.934 13.568-69.204 13.568 69.204 13.535-69.038"
+     style="fill:none;fill-opacity:.546618;stroke:purple;stroke-width:1.8816;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="path90" />
+  <text
+     xml:space="preserve"
+     x="1076.383"
+     y="272.823"
+     style="font-size:18.6667px;font-family:&quot;Berlin Sans FB&quot;;-inkscape-font-specification:&quot;Berlin Sans FB&quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.546618;stroke:#000;stroke-width:2.19969;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="text98"><tspan
+       x="1076.383"
+       y="272.823"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan92">Salida </tspan><tspan
+       x="1076.383"
+       y="296.885"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan94">estable</tspan><tspan
+       x="1076.383"
+       y="320.947"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan96">Circuito Comb</tspan></text>
+  <path
+     d="M861.631 221.613h47.777v148.023h-47.777z"
+     style="fill:#333;fill-opacity:.370748;stroke:none;stroke-width:3.11071;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="path100" />
+  <path
+     d="M861.631 246.11h123.586v99.029H861.631z"
+     style="fill:#333;fill-opacity:.370748;stroke:none;stroke-width:1.82198;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="path102" />
+  <text
+     xml:space="preserve"
+     x="889.527"
+     y="217.63"
+     style="font-size:18.6667px;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="text106"><tspan
+       x="889.527"
+       y="217.63"
+       style="fill:purple;fill-opacity:.75"
+       id="tspan104">tcd</tspan></text>
+  <text
+     xml:space="preserve"
+     x="968.3"
+     y="240.106"
+     style="font-size:18.6667px;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="text110"><tspan
+       x="968.3"
+       y="240.106"
+       style="fill:purple;fill-opacity:.75"
+       id="tspan108">tpd</tspan></text>
+  <path
+     d="m469.328 290.413-23.744-33.507L-.5 256.372l-23.744 34.041 22.658 34.042H446.67Z"
+     style="fill:none;fill-opacity:.546618;stroke:#6122e4;stroke-width:3.62969;stroke-miterlimit:4.4;stroke-dasharray:none"
+     id="path112" />
+  <text
+     xml:space="preserve"
+     x="232.739"
+     y="289.537"
+     style="font-size:19.7661px;font-family:&quot;Berlin Sans FB&quot;;-inkscape-font-specification:&quot;Berlin Sans FB&quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.546618;stroke:#000;stroke-width:2.32925;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     transform="scale(1.06036 .94308)"
+     id="text120"><tspan
+       x="232.739"
+       y="289.537"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none;stroke-width:2.32925"
+       id="tspan114">Salida </tspan><tspan
+       x="232.739"
+       y="315.017"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none;stroke-width:2.32925"
+       id="tspan116">estable</tspan><tspan
+       x="232.739"
+       y="340.496"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none;stroke-width:2.32925"
+       id="tspan118">Circuito Comb</tspan></text>
+  <path
+     d="m521.433 290.29-2.57-34.238-48.278-.545-2.57 34.784 2.453 34.784h48.513z"
+     style="fill:none;fill-opacity:.546618;stroke:#6122e4;stroke-width:.797191;stroke-miterlimit:4.4"
+     id="path122" />
+  <path
+     d="m473.046 255.73 13.568 69.204 13.568-69.204 13.535 69.037"
+     style="fill:none;fill-opacity:.546618;stroke:purple;stroke-width:1.8816;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="path124" />
+  <path
+     d="m473.046 324.934 13.568-69.204 13.568 69.204 13.535-69.038"
+     style="fill:none;fill-opacity:.546618;stroke:purple;stroke-width:1.8816;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="path126" />
+  <path
+     d="M408.932 221.613h47.777v148.023h-47.777z"
+     style="fill:#333;fill-opacity:.370748;stroke:none;stroke-width:3.11071;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="path128" />
+  <path
+     d="M408.932 246.11h123.586v99.029H408.932z"
+     style="fill:#333;fill-opacity:.370748;stroke:none;stroke-width:1.82198;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="path130" />
+  <text
+     xml:space="preserve"
+     x="436.827"
+     y="217.63"
+     style="font-size:18.6667px;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="text134"><tspan
+       x="436.827"
+       y="217.63"
+       style="fill:purple;fill-opacity:.75"
+       id="tspan132">tcd</tspan></text>
+  <text
+     xml:space="preserve"
+     x="515.601"
+     y="240.106"
+     style="font-size:18.6667px;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="text138"><tspan
+       x="515.601"
+       y="240.106"
+       style="fill:purple;fill-opacity:.75"
+       id="tspan136">tpd</tspan></text>
+  <path
+     d="m266.355 460.247-13.486-33.919-253.369-.54-13.486 34.46 12.869 34.459h254.603Z"
+     style="fill:none;fill-opacity:.546618;stroke:#6122e4;stroke-width:2.7;stroke-miterlimit:4.4;stroke-dasharray:none"
+     id="path140" />
+  <path
+     d="m399.957 460.243-6.443-34.1-121.044-.543-6.443 34.643 6.148 34.643h121.633Z"
+     style="fill:none;fill-opacity:.546618;stroke:#6122e4;stroke-width:1.25973;stroke-miterlimit:4.4"
+     id="path142" />
+  <text
+     xml:space="preserve"
+     x="138.047"
+     y="442.364"
+     style="font-size:18.6667px;font-family:&quot;Berlin Sans FB&quot;;-inkscape-font-specification:&quot;Berlin Sans FB&quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.546618;stroke:#000;stroke-width:2.19969;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="text150"><tspan
+       x="138.047"
+       y="442.364"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan144">Salida </tspan><tspan
+       x="138.047"
+       y="466.426"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan146">estable</tspan><tspan
+       x="138.047"
+       y="490.488"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan148">Q2</tspan></text>
+  <text
+     xml:space="preserve"
+     x="549.891"
+     y="443.368"
+     style="font-size:18.6667px;font-family:&quot;Berlin Sans FB&quot;;-inkscape-font-specification:&quot;Berlin Sans FB&quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.546618;stroke:#000;stroke-width:2.19969;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="text158"><tspan
+       x="549.891"
+       y="443.368"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan152">Salida </tspan><tspan
+       x="549.891"
+       y="467.431"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan154">estable</tspan><tspan
+       x="549.891"
+       y="491.493"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan156">Q2</tspan></text>
+  <text
+     xml:space="preserve"
+     x="1010.638"
+     y="443.453"
+     style="font-size:18.6667px;font-family:&quot;Berlin Sans FB&quot;;-inkscape-font-specification:&quot;Berlin Sans FB&quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.546618;stroke:#000;stroke-width:2.19969;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="text166"><tspan
+       x="1010.638"
+       y="443.453"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan160">Salida </tspan><tspan
+       x="1010.638"
+       y="467.515"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan162">estable</tspan><tspan
+       x="1010.638"
+       y="491.577"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;fill:#333;stroke:none"
+       id="tspan164">Q2</tspan></text>
+  <path
+     d="m278.175 425.682 18.543 69.204 18.544-69.204 18.498 69.038 18.499-69.038 18.454 68.872 18.454-68.872"
+     style="fill:none;fill-opacity:.546618;stroke:purple;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="path168" />
+  <path
+     d="m278.175 494.886 18.543-69.204 18.544 69.204 18.498-69.038 18.499 69.038 18.454-68.872 18.454 68.872"
+     style="fill:none;fill-opacity:.546618;stroke:purple;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="path170" />
+  <path
+     d="m705.745 494.819 7.568-34.572-7.93-34.03h-148.97l-148.97-.542-7.931 34.572 7.567 34.572h149.333z"
+     style="fill:none;fill-opacity:.546618;stroke:#6122e4;stroke-width:2.7;stroke-miterlimit:4.4;stroke-dasharray:none"
+     id="path172" />
+  <path
+     d="m848.696 459.82-6.443-34.098-121.044-.544-6.443 34.643 6.148 34.643h121.633z"
+     style="fill:none;fill-opacity:.546618;stroke:#6122e4;stroke-width:1.25973;stroke-miterlimit:4.4"
+     id="path174" />
+  <path
+     d="m1166.374 459.825-15.194-33.764-285.454-.538-15.194 34.302 14.499 34.303h286.844z"
+     style="fill:none;fill-opacity:.546618;stroke:#6122e4;stroke-width:2.7;stroke-miterlimit:4.4;stroke-dasharray:none"
+     id="path176" />
+  <path
+     d="m726.914 425.26 18.543 69.204L764 425.26l18.499 69.037 18.499-69.037 18.454 68.872 18.454-68.872"
+     style="fill:none;fill-opacity:.546618;stroke:purple;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="path178" />
+  <path
+     d="m726.914 494.464 18.543-69.204L764 494.464l18.499-69.038 18.499 69.038 18.454-68.872 18.454 68.872"
+     style="fill:none;fill-opacity:.546618;stroke:purple;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+     id="path180" />
+  <path
+     d="M226.385 384.633h23.89v148.023h-23.89z"
+     style="fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="path182" />
+  <path
+     d="M226.385 409.816h180.139v99.029H226.385z"
+     style="fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="path184" />
+  <text
+     xml:space="preserve"
+     x="254.281"
+     y="380.65"
+     style="font-size:18.6667px;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="text188"><tspan
+       x="254.281"
+       y="380.65"
+       style="fill:purple;fill-opacity:.75"
+       id="tspan186">tccq</tspan></text>
+  <text
+     xml:space="preserve"
+     x="388.389"
+     y="404.69"
+     style="font-size:18.6667px;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="text192"><tspan
+       x="388.389"
+       y="404.69"
+       style="fill:purple;fill-opacity:.75"
+       id="tspan190">tpcq</tspan></text>
+  <text
+     xml:space="preserve"
+     x="709.388"
+     y="380.65"
+     style="font-size:18.6667px;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="text196"><tspan
+       x="709.388"
+       y="380.65"
+       style="fill:purple;fill-opacity:.75"
+       id="tspan194">tccq</tspan></text>
+  <text
+     xml:space="preserve"
+     x="843.496"
+     y="404.69"
+     style="font-size:18.6667px;font-family:&quot;Arial Rounded MT Bold&quot;;-inkscape-font-specification:&quot;Arial Rounded MT Bold, &quot;;text-align:center;text-anchor:middle;fill:#333;fill-opacity:.370748;stroke:none;stroke-width:2.19969;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+     id="text200"><tspan
+       x="843.496"
+       y="404.69"
+       style="fill:purple;fill-opacity:.75"
+       id="tspan198">tpcq</tspan></text>
+</svg>

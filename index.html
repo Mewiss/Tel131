@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	<title>reveal.js</title>
+
+	<link rel="stylesheet" href="dist/reset.css">
+	<link rel="stylesheet" href="dist/reveal.css">
+	<link rel="stylesheet" href="dist/theme/elo211.css">
+	<link rel="stylesheet" href="css/animRestricciones.css">
+
+	<!-- Theme used for syntax highlighted code -->
+	<link rel="stylesheet" href="plugin/highlight/monokai.css">
+
+	<style>
+		.fragment.bold {
+			font-weight: normal;
+		}
+
+		.fragment.bold.visible {
+			font-weight: bold;
+		}
+
+		.reveal td {
+			font-size: 60%;
+		}
+
+		.tg {
+			border-collapse: collapse;
+			border-spacing: 0
+		}
+
+		.tg td {
+			border-color: black;
+			border-style: solid;
+			border-width: 1px;
+			font-family: Arial, sans-serif;
+			font-size: 28px;
+			overflow: hidden;
+			padding: 10px 5px;
+			word-break: normal;
+		}
+
+		.tg th {
+			border-color: black;
+			border-style: solid;
+			border-width: 1px;
+			font-family: Arial, sans-serif;
+			font-size: 28px;
+			font-weight: normal;
+			overflow: hidden;
+			padding: 10px 5px;
+			word-break: normal;
+		}
+
+		.tg .tg-0lax {
+			text-align: center;
+			vertical-align: center;
+			font-size: 3vw;
+			border-width: 2px
+		}
+
+		.tg .tg-small {
+			text-align: center;
+			vertical-align: center;
+			font-size: 2vw
+		}
+
+		.smalltab {
+			font-size: 2vw
+		}
+	</style>
+</head>
+
+<body>
+
+	<div class="reveal">
+		<div class="slides">
+
+			<section class="Title" data-include>
+				<p class="r-fit-text">ELO211 Sistemas Digitales</p>
+				<h2>Proyecto</h2>
+				<p>Marie González-Inostroza</p>
+
+			</section>
+
+			<section>
+				<h3>¿Cuál debe ser el contenido del video?</h3>
+				<ul>
+					<li class="fragment">Problema</li>
+					<li class="fragment">Solución</li>
+					<li class="fragment">Beneficio</li>
+				</ul>
+			</section>
+
+			<section>
+				<h4>En grupos de proyecto, identifiquen:</h4>
+				<ul>
+					<li>Quién es su audiencia</li>
+					<li>Cuál es el mensaje principal</li>
+					<li>Qué información debe incluir</li>
+				</ul>
+				<div>
+					<countdown time="360" autostart="yes" />
+				</div>
+				
+			</section>
+
+			<section>
+				<h3>StoryBoard</h3>
+				<p> Es un guión gráfico en que el que podemos plasmar una idea sobre cómo se contará una historia. </p>
+			</section>
+
+			<section class="Title" data-include>
+				<p class="r-fit-text">ELO211 Sistemas Digitales</p>
+				<h2>Repaso</h2>
+				<p>Marie González-Inostroza</p>
+
+			</section>
+
+			<section>
+				<h3>Instrucciones del fantástico juego de Repaso</h3>
+				<ul>
+					<li class="fragment">Cada persona recibe una lista de preguntas</li>
+					<li class="fragment">El interrogador elije una pregunta para la persona de su izquierda, quien debe responder en menos de 90 segundos</li>
+					<li class="fragment">Los otros participantes asignan un puntaje de 1 si la respuesta estuvo bien, 0.5 si estuvo incompleta o 0 si estuvo equivocada</li>
+					<li class="fragment">Quien respondió es el siguiente interrogador</li>
+					<li class="fragment">Parte siendo interrogador la última persona en comer legumbres</li>
+					<li class="fragment">Anoten las preguntas que tuvieron problemas para ser respondidas</li>
+					<li class="fragment">Hay premio para quien acumule más puntos por grupos</li>
+				</ul>
+			</section>
+
+			<section class="Title" data-include>
+				<p class="r-fit-text">ELO211 Sistemas Digitales</p>
+				<h2>El fin</h2>
+				<p>Marie González-Inostroza</p>
+
+			</section>
+
+		</div>
+	</div>
+
+	<script src="dist/reveal.js"></script>
+	<script src="plugin/notes/notes.js"></script>
+	<script src="plugin/markdown/markdown.js"></script>
+	<script src="plugin/highlight/highlight.js"></script>
+	<script src="plugin/countdown/countdown.js"></script>
+	<script src="plugin/animate/plugin.js"></script>
+	<script src="plugin/animate/svg.min.js"></script>
+	<script src="plugin/math/math.js"></script>
+	<script>
+		// More info about initialization & config:
+		// - https://revealjs.com/initialization/
+		// - https://revealjs.com/config/
+		Reveal.initialize({
+			hash: true,
+			slideNumber: true,
+			dependencies: [
+
+				{ src: "plugin/countdown/countdown.js" },
+
+			],
+			animate: {
+				autoplay: true
+			},
+
+			// Learn about plugins: https://revealjs.com/plugins/
+			plugins: [RevealMath.KaTeX, RevealMarkdown, RevealHighlight, RevealNotes, RevealAnimate],
+			countdown: { defaultTime: 300, autostart: true },
+
+			autoAnimateEasing: 'ease-out',
+			autoAnimateDuration: 10,
+			autoAnimateUnmatched: false
+
+		});
+
+		Reveal.configure({ pdfSeparateFragments: false });
+	</script>
+</body>
+
+</html>

@@ -1,0 +1,154 @@
+<svg width="871.119" height="263.318" viewBox="-0.5 -0.5 871.119 263.318" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <marker style="overflow:visible" id="g" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <marker style="overflow:visible" id="h" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <marker style="overflow:visible" id="i" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <marker style="overflow:visible" id="j" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <marker style="overflow:visible" id="d" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <marker style="overflow:visible" id="n" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <marker style="overflow:visible" id="o" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <marker style="overflow:visible" id="p" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <marker style="overflow:visible" id="q" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <marker style="overflow:visible" id="k" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <marker style="overflow:visible" id="e" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <marker style="overflow:visible" id="r" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <marker style="overflow:visible" id="s" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <marker style="overflow:visible" id="t" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <marker style="overflow:visible" id="l" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <marker style="overflow:visible" id="m" refX="0" refY="0" orient="auto-start-reverse" markerWidth="5.324" markerHeight="6.155" viewBox="0 0 5.324 6.155" preserveAspectRatio="xMidYMid">
+            <path transform="scale(.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m5.77 0-8.65 5V-5Z"/>
+        </marker>
+        <linearGradient id="b">
+            <stop style="stop-color:red;stop-opacity:1" offset="0"/>
+            <stop style="stop-color:#0f0;stop-opacity:.76094276" offset="1"/>
+        </linearGradient>
+        <linearGradient id="a">
+            <stop style="stop-color:#0f0;stop-opacity:.80542982" offset="0"/>
+            <stop style="stop-color:red;stop-opacity:.80769229" offset="1"/>
+        </linearGradient>
+        <linearGradient xlink:href="#a" id="c" x1="-.5" y1="40" x2="80.5" y2="40" gradientUnits="userSpaceOnUse" gradientTransform="translate(10.427 468.407)"/>
+        <linearGradient xlink:href="#b" id="f" gradientUnits="userSpaceOnUse" gradientTransform="translate(31.563 353.547)" x1="129.5" y1="150" x2="210.5" y2="150"/>
+    </defs>
+    <g transform="translate(20.375 -395.41)">
+        <circle cx="50.427" cy="508.407" fill="#FFF" stroke="#000" pointer-events="all" style="fill:url(#c);fill-opacity:1" r="40"/>
+        <switch transform="translate(9.927 467.907)">
+            <text x="40" y="44" font-family="Helvetica" font-size="12" text-anchor="middle">AVerde</text>
+        </switch>
+    </g>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000;marker-start:url(#d)" d="M517.83 42.563c8.028-.215 12.301 8.75 11.07 15.708-2.075 11.727-15.086 17.417-25.862 14.558-6.177-1.639-11.514-5.729-14.96-11.08" transform="rotate(-56.818 556.535 -13.605)"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000;marker-start:url(#e)" d="M517.83 42.563c8.028-.215 12.301 8.75 11.07 15.708-2.075 11.727-15.086 17.417-25.862 14.558-6.177-1.639-11.514-5.729-14.96-11.08" transform="rotate(173.162 439.682 45.385)"/>
+    <text xml:space="preserve" style="font-size:18.0099px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000;stroke-width:.81136" x="623.34" y="88.727" transform="matrix(.9345 0 0 1.0701 25.698 -34.107)"><tspan x="623.34" y="88.727" style="stroke-width:.81136">T</tspan></text>
+    <text xml:space="preserve" style="font-size:18.0099px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000;stroke-width:.81136" x="563.614" y="154.417" transform="matrix(.9345 0 0 1.0701 25.698 -34.107)"><tspan x="563.614" y="154.417" style="stroke-width:.81136">T</tspan></text>
+    <text xml:space="preserve" style="font-size:32.03px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000;stroke-width:1.44297" x="320.826" y="251.65" transform="matrix(1.61996 0 0 .6173 25.698 -34.107)"><tspan x="320.826" y="251.65" style="stroke-width:1.44297">-</tspan></text>
+    <g transform="translate(12.223 -390.55)">
+        <circle cx="201.563" cy="503.547" fill="#FFF" stroke="#000" pointer-events="all" style="fill:url(#f);fill-opacity:1" r="40"/>
+        <text x="201.063" y="507.517" font-family="Helvetica" font-size="12" text-anchor="middle">BVerde</text>
+    </g>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000;marker-end:url(#g)" d="M174.18 380.563c39.047-21.413 86.587 1.677 104.357 39.845 6.55 14.07 9.34 29.756 8.37 45.228" transform="matrix(.8295 -.5846 .45431 .76188 -243.29 -116.484)"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000;marker-end:url(#h)" d="M174.18 380.563c39.047-21.413 86.587 1.677 104.357 39.845 6.55 14.07 9.34 29.756 8.37 45.228" transform="matrix(-.8295 .5846 -.45431 -.76188 525.142 342.25)"/>
+    <text xml:space="preserve" style="font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000;stroke-width:.65;stroke-miterlimit:4.4;stroke-dasharray:none" x="62.977" y="61.971" transform="translate(25.698 -34.107)"><tspan x="62.977" y="61.971">EndA</tspan></text>
+    <text xml:space="preserve" style="font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000;stroke-width:.65;stroke-miterlimit:4.4;stroke-dasharray:none" x="72.021" y="258.362" transform="translate(25.698 -34.107)"><tspan x="72.021" y="258.362">EndB</tspan></text>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000;marker-start:url(#i)" d="M517.83 42.563c8.028-.215 12.301 8.75 11.07 15.708-2.075 11.727-15.086 17.417-25.862 14.558-6.177-1.639-11.514-5.729-14.96-11.08" transform="rotate(-94.093 391.817 191.296)"/>
+    <text xml:space="preserve" style="font-size:18.0099px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000;stroke-width:.81136" x="228.561" y="91.005" transform="matrix(.9345 0 0 1.0701 25.698 -34.107)"><tspan x="228.561" y="91.005" style="stroke-width:.81136">else</tspan></text>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000;marker-start:url(#j)" d="M517.83 42.563c8.028-.215 12.301 8.75 11.07 15.708-2.075 11.727-15.086 17.417-25.862 14.558-6.177-1.639-11.514-5.729-14.96-11.08" transform="rotate(137.787 255.591 -9.807)"/>
+    <text xml:space="preserve" style="font-size:18.0099px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000;stroke-width:.81136" x="-28.966" y="115.169" transform="matrix(.9345 0 0 1.0701 25.698 -34.107)"><tspan x="-28.966" y="115.169" style="stroke-width:.81136">else</tspan></text>
+    <text xml:space="preserve" style="font-size:10.9001px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000;stroke-width:.189779;stroke-miterlimit:4.4;stroke-dasharray:none" x="35.204" y="172.113" transform="translate(25.698 -34.107)"><tspan x="35.204" y="172.113" style="stroke-width:.189779">G=1</tspan></text>
+    <text xml:space="preserve" style="font-size:10.9001px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000;stroke-width:.189779;stroke-miterlimit:4.4;stroke-dasharray:none" x="180.026" y="169.101" transform="translate(25.698 -34.107)"><tspan x="180.026" y="169.101" style="stroke-width:.189779">G=0</tspan></text>
+    <g transform="translate(65.775 -430.34)" style="display:inline">
+        <circle cx="340.09" cy="501.326" fill="#FFF" stroke="#000" pointer-events="all" style="fill:#00f500;fill-opacity:1" r="40"/>
+        <switch transform="translate(299.59 452.812)">
+            <text x="40.539" y="41.339" font-family="Helvetica" font-size="12" text-anchor="middle" style="font-size:26.6667px">S0</text>
+        </switch>
+        <text xml:space="preserve" style="font-size:10.9001px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000;stroke-width:.189779;stroke-miterlimit:4.4;stroke-dasharray:none" x="339.917" y="508.183"><tspan x="339.917" y="508.183" style="text-align:center;text-anchor:middle;stroke-width:.189779">End=0</tspan><tspan x="339.917" y="521.809" style="text-align:center;text-anchor:middle;stroke-width:.189779">C=1</tspan><tspan x="339.917" y="535.434" style="text-align:center;text-anchor:middle;stroke-width:.189779">L=V</tspan></text>
+    </g>
+    <g transform="translate(204.001 -432.409)" style="display:inline">
+        <circle cx="340.09" cy="501.326" fill="#FFF" stroke="#000" pointer-events="all" style="fill:#00f500;fill-opacity:1" r="40"/>
+        <text xml:space="preserve" style="font-size:10.9001px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000;stroke-width:.189779;stroke-miterlimit:4.4;stroke-dasharray:none" x="339.917" y="508.497"><tspan x="339.917" y="508.497" style="text-align:center;text-anchor:middle;stroke-width:.189779">End=0</tspan><tspan x="339.917" y="522.122" style="text-align:center;text-anchor:middle;stroke-width:.189779">C=0</tspan><tspan x="339.917" y="535.747" style="text-align:center;text-anchor:middle;stroke-width:.189779">L=V</tspan></text>
+    </g>
+    <g transform="translate(203.114 -319.775)">
+        <circle cx="340.09" cy="501.326" fill="#FFF" stroke="#000" pointer-events="all" style="fill:#e8f500;fill-opacity:1" r="40"/>
+        <switch transform="translate(299.904 453.44)">
+            <text x="40.233" y="38.983" font-family="Helvetica" font-size="12" text-anchor="middle" style="font-size:26.6667px">S4</text>
+        </switch>
+        <text xml:space="preserve" style="font-size:10.9001px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000;stroke-width:.189779;stroke-miterlimit:4.4;stroke-dasharray:none" x="340.231" y="506.929"><tspan x="340.231" y="506.929" style="text-align:center;text-anchor:middle;stroke-width:.189779">End=0</tspan><tspan x="340.231" y="520.554" style="text-align:center;text-anchor:middle;stroke-width:.189779">C=1</tspan><tspan x="340.231" y="534.179" style="text-align:center;text-anchor:middle;stroke-width:.189779">L=A</tspan></text>
+        <text xml:space="preserve" style="font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000;stroke-width:.65;stroke-miterlimit:4.4" x="341.352" y="380.733"><tspan x="341.352" y="380.733">S1</tspan></text>
+        <g transform="translate(111 110.373)" style="display:inline">
+            <circle cx="516.004" cy="399.546" fill="#FFF" stroke="#000" pointer-events="all" style="fill:#fff;fill-opacity:1" r="40"/>
+            <switch transform="translate(475.818 351.66)">
+                <text x="40.168" y="38.983" font-family="Helvetica" font-size="12" text-anchor="middle" style="font-size:26.6667px"><tspan x="40.168" y="38.983">C2</tspan><tspan x="40.168" y="72.316" style="font-size:18.6667px">Cs=2</tspan></text>
+            </switch>
+        </g>
+        <g transform="translate(-136.712)" style="display:inline">
+            <circle cx="652.716" cy="398.919" fill="#FFF" stroke="#000" pointer-events="all" style="fill:#fff;fill-opacity:1" r="40"/>
+            <switch transform="translate(612.53 351.033)">
+                <text x="40.168" y="38.983" font-family="Helvetica" font-size="12" text-anchor="middle" style="font-size:26.6667px"><tspan x="40.168" y="38.983">C0</tspan><tspan x="40.168" y="72.316" style="font-size:18.6667px">Cs=0</tspan></text>
+            </switch>
+        </g>
+        <g transform="translate(111 -.627)">
+            <circle cx="516.004" cy="399.546" fill="#FFF" stroke="#000" pointer-events="all" style="fill:#fff;fill-opacity:1" r="40"/>
+            <switch transform="translate(475.818 351.66)" style="display:inline">
+                <text x="40.168" y="38.983" font-family="Helvetica" font-size="12" text-anchor="middle" style="font-size:26.6667px"><tspan x="40.168" y="38.983">C1</tspan><tspan x="40.168" y="72.316" style="font-size:18.6667px">Cs=1</tspan></text>
+            </switch>
+        </g>
+        <g transform="translate(-136.712 111)">
+            <circle cx="652.716" cy="398.919" fill="#FFF" stroke="#000" pointer-events="all" style="fill:#fff;fill-opacity:1" r="40"/>
+            <switch transform="translate(612.53 351.033)">
+                <text x="40.168" y="38.983" font-family="Helvetica" font-size="12" text-anchor="middle" style="font-size:26.6667px;display:inline"><tspan x="0" y="0">C3</tspan><tspan x="0" y="0" style="font-size:18.6667px">Cs=3</tspan></text>
+            </switch>
+        </g>
+    </g>
+    <g transform="translate(305.107 -331.95)">
+        <circle cx="105.234" cy="512.614" fill="#FFF" stroke="#000" pointer-events="all" style="fill:#e83000;fill-opacity:1" r="40"/>
+        <switch transform="translate(64.734 467.236)">
+            <text x="40.233" y="41.492" font-family="Helvetica" font-size="12" text-anchor="middle" style="font-size:26.6667px">S5</text>
+        </switch>
+        <text xml:space="preserve" style="font-size:10.9001px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000;stroke-width:.189779;stroke-miterlimit:4.4;stroke-dasharray:none" x="105.375" y="519.472"><tspan x="105.375" y="519.472" style="text-align:center;text-anchor:middle;stroke-width:.189779">End=1</tspan><tspan x="105.375" y="533.097" style="text-align:center;text-anchor:middle;stroke-width:.189779">C=0</tspan><tspan x="105.375" y="546.722" style="text-align:center;text-anchor:middle;stroke-width:.189779">L=R</tspan></text>
+        <path style="fill:none;fill-rule:evenodd;stroke:#000;marker-start:url(#k)" d="M517.83 42.563c8.028-.215 12.301 8.75 11.07 15.708-2.075 11.727-15.086 17.417-25.862 14.558-6.177-1.639-11.514-5.729-14.96-11.08" transform="rotate(-3.426 8573.026 4267.65)"/>
+        <text xml:space="preserve" style="font-size:19.3935px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#e83000;fill-opacity:1;stroke-width:.39393;stroke-miterlimit:4.4;stroke-dasharray:none" x="302.475" y="540.466" transform="scale(.93096 1.07416)"><tspan x="302.475" y="540.466" style="fill:#000;stroke-width:.39393">Cs=1</tspan></text>
+        <text xml:space="preserve" style="font-size:19.3935px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#e83000;fill-opacity:1;stroke-width:.39393;stroke-miterlimit:4.4;stroke-dasharray:none" x="62.582" y="328.462" transform="scale(.93096 1.07416)"><tspan x="62.582" y="328.462" style="fill:#000;stroke-width:.39393">Cs=3</tspan></text>
+        <path style="fill:none;fill-rule:evenodd;stroke:#000;marker-start:url(#l)" d="M517.83 42.563c8.028-.215 12.301 8.75 11.07 15.708-2.075 11.727-15.086 17.417-25.862 14.558-6.177-1.639-11.514-5.729-14.96-11.08" transform="rotate(32.939 -399.365 162.147)"/>
+        <path style="fill:none;fill-rule:evenodd;stroke:#000;marker-start:url(#m)" d="M517.83 42.563c8.028-.215 12.301 8.75 11.07 15.708-1.184 6.687-6.402 12-12.717 14.168" transform="rotate(-158.291 481.031 223.445)"/>
+        <text xml:space="preserve" style="font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000;fill-opacity:1;stroke-width:.65;stroke-miterlimit:4.4" x="379.514" y="349.655"><tspan x="379.514" y="349.655">Rst=C</tspan></text>
+        <text xml:space="preserve" style="font-size:26.87px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000;fill-opacity:1;stroke-width:.93565;stroke-miterlimit:4.4" x="279.549" y="488.759" transform="scale(1.43946 .6947)"><tspan x="279.549" y="488.759" style="stroke-width:.93565">-</tspan></text>
+    </g>
+    <text xml:space="preserve" style="font-size:19.3935px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#e83000;fill-opacity:1;stroke-width:.39393;stroke-miterlimit:4.4;stroke-dasharray:none" x="385.88" y="156.04" transform="matrix(.93096 0 0 1.07416 25.698 -34.107)"><tspan x="385.88" y="156.04" style="fill:#000;stroke-width:.39393">G=1</tspan></text>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000;marker-start:url(#n)" d="M517.83 42.563c8.028-.215 12.301 8.75 11.07 15.708-2.075 11.727-15.086 17.417-25.862 14.558-6.177-1.639-11.514-5.729-14.96-11.08" transform="rotate(48.98 271.05 31.323)"/>
+    <text xml:space="preserve" style="font-size:19.3935px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#e83000;fill-opacity:1;stroke-width:.39393;stroke-miterlimit:4.4;stroke-dasharray:none" x="413.711" y="276.132" transform="matrix(.93096 0 0 1.07416 25.698 -34.107)"><tspan x="413.711" y="276.132" style="fill:#000;stroke-width:.39393">G=0</tspan></text>
+    <path d="M473.27 98.994h-53.65" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="stroke" style="stroke-width:1.1089;marker-start:url(#g)" transform="translate(25.698 -34.107)"/>
+    <path d="m428.714 215.684 47.653-.15" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="stroke" style="stroke-width:1.08234;marker-start:url(#o)" transform="translate(25.698 -34.107)"/>
+    <path d="m519.09 172.064-.202-28.536" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="stroke" style="stroke-width:.970507;marker-start:url(#p)" transform="translate(25.698 -34.107)"/>
+    <path d="m382.451 149.989-.012 24.13" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="stroke" style="stroke-width:.938123;marker-start:url(#q)" transform="translate(25.698 -34.107)"/>
+    <path d="M762.408 113.564h-29.112" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="stroke" style="stroke-width:.816854;marker-start:url(#r)" transform="translate(25.698 -34.107)"/>
+    <path d="m736.13 222.768 29.108.507" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="stroke" style="stroke-width:.816854;marker-start:url(#s)" transform="translate(25.698 -34.107)"/>
+    <path d="m809.339 182.158-1.174-29.089" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="stroke" style="stroke-width:.816854;marker-start:url(#t)" transform="translate(25.698 -34.107)"/>
+</svg>
