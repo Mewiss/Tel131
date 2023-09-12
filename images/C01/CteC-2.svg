@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="171.23839mm"
+   height="106.59552mm"
+   viewBox="0 0 171.23838 106.59552"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer4"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="display:inline;fill:#008080;stroke:#008080;font-size:32px;font-family:Arial;stroke-width:1.00157;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dashoffset:0"
+       x="1023.5302"
+       y="234.16304"
+       id="text2839-8"
+       transform="matrix(0.26458333,0,0,0.26458333,-109.60506,-48.99361)"><tspan
+         id="tspan2837-8"
+         x="1023.5302"
+         y="234.16304"
+         style="font-size:32px;fill:#008080;stroke:#008080">Ic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;fill:#008080;stroke:#008080;font-size:26.6667px;font-family:Arial;stroke-width:1.00157;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dashoffset:0"
+       x="1024.9846"
+       y="287.75906"
+       id="text2839-0-0"
+       transform="matrix(0.26458333,0,0,0.26458333,-109.60506,-48.99361)"><tspan
+         id="tspan2837-5-0"
+         x="1024.9846"
+         y="287.75906"
+         style="font-size:26.6667px;fill:#008080;stroke:#008080">Vs/R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;fill:#008080;stroke:#008080;font-size:26.6667px;font-family:Arial;stroke-width:1.00157;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dashoffset:0"
+       x="1024.9846"
+       y="423.35956"
+       id="text2839-3-2"
+       transform="matrix(0.26458333,0,0,0.26458333,-109.60506,-48.99361)"><tspan
+         id="tspan2837-6-1"
+         x="1024.9846"
+         y="423.35956"
+         style="font-size:26.6667px;fill:#008080;stroke:#008080">Vs/2R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;fill:#008080;stroke:#008080;font-size:26.6667px;font-family:Arial;stroke-width:1.00157;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dashoffset:0"
+       x="1024.9586"
+       y="557.45911"
+       id="text2839-3-8-1"
+       transform="matrix(0.26458333,0,0,0.26458333,-109.60506,-48.99361)"><tspan
+         id="tspan2837-6-7-3"
+         x="1024.9586"
+         y="557.45911"
+         style="font-size:26.6667px;fill:#008080;stroke:#008080">0</tspan></text>
+    <path
+       d="m 1080.5,743.5 v 1 2 l 1,4 1,9 1,15 3,28 6,47 10,54 9,35 9,24 10,16 9,10 10,7 9,5 9,3 10,2 9,2 10,1 h 9 l 10,1 h 9 9 10 9 10 9 9 10 9 10 9 10 9 9 10 9 10 9 9 10 9 10 9 10 9 9 10 9 10 9 9 10 9 10 9 l 45.5,1"
+       stroke="#4472c4"
+       stroke-width="3"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       id="path719"
+       style="display:inline;stroke:#008080;stroke-opacity:1;fill:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-269.70604,-171.54457)" />
+  </g>
+</svg>

@@ -407,3 +407,18 @@ section.has-dark-background h6 {
   align-items: center;
   max-width: 90%;
 }
+
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+.image--changed-with-container {
+  width: auto;
+  height: 35%;
+}
