@@ -137,11 +137,15 @@ section.has-dark-background h6 {
 }
 
 /* Ensure certain elements are never larger than the slide itself */
-.reveal img,
+
 .reveal video,
 .reveal iframe {
   max-width: 95%;
   max-height: 95%;
+  margin:auto;
+  display:block;
+  text-align: center;
+
 }
 
 .reveal strong,

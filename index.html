@@ -84,297 +84,268 @@
 
 			<section class="Title" data-include>
 				<p class="r-fit-text">TEL131 Electrónica Digital</p>
-				<h2>Conceptos básicos de circuitos - parte 2</h2>
+				<h2>Circuitos No-lineales</h2>
 				<p>Marie González-Inostroza</p>
 
 			</section>
 
+			<section>
+				<section>
+					<h2>Semiconductores</h2>
+					<p class="fragment"> Elementos que pueden comportarse como conductores o como aislantes según
+						ciertas condiciones.</p>
+					<aside class="notes">
+						Shhh, these are your private notes 📝
+					</aside>
+				</section>
+
+				<section>
+					<h4>Unión PN</h4>
+					<iframe class="r-stretch" data-src="https://www.pveducation.org/sites/default/files/PVCDROM/PN-Junction/Animations/pn-junction/pn-junction_HTML5.html
+							" data-preload></iframe>
+
+				</section>
+			</section>
 
 
 			<section>
+				<section data-auto-animate>
+					<h2>Diodo</h2>
+					<p class="fragment"> Semiconductor que permite el paso de la corriente en una dirección.</p>
+				</section>
+
+
+				<section data-auto-animate>
+					<h2>Diodo</h2>
+
+
+					<img src="images/C02/Estructura_diodo_2.jpg">
+
+
+					<aside class="notes">
+						https://es.wikipedia.org/wiki/Diodo#/media/Archivo:Estructura_diodo_2.JPG
+					</aside>
+
+
+
+				</section>
+
+				<section data-auto-animate>
+					<h2>Diodo</h2>
+					<div class="r-stack r-stretch" data-id="diodo">
+						<img class="fragment " src="images/C02/Diodo-1.svg">
+						<img class="fragment " src="images/C02/Diodo-2.svg">
+						<img class="fragment " src="images/C02/Diodo-3.svg">
+					</div>
+
+
+				</section>
+
 				<section>
-					<h2>Condensadores e Inductores</h2>
+					<h4>Unión PN</h4>
+					<iframe class="r-stretch"
+						data-src="https://www.pveducation.org/sites/default/files/PVCDROM/PN-Junction/Animations/bias/bias_rebalanced_HTML5.html"
+						data-preload></iframe>
 
 				</section>
-				<section data-auto-animate>
-					<h4>Condensadores</h4>
-					<p>Componentes capaces de acumular energía a través de un campo eléctrico
-					</p>
+
+				<section>
+					<h6>Zonas de polarización del diodo</h6>
+					<div class="r-stack r-stretch" data-id="diodo">
+						<img class="fragment " src="images/C02/DiodoGraf-1.svg">
+						<img class="fragment " src="images/C02/DiodoGraf-2.svg">
+						<img class="fragment " src="images/C02/DiodoGraf-3.svg">
+						<img class="fragment " src="images/C02/DiodoGraf-4.svg">
+
+					</div>
+
+
+				</section>
+
+				<section>
+					<h2>Ecuación del diodo</h2>
 					<p>
-						$Q=CV$
+						$I_D=I_S(e^{\frac{V_D}{V_{TH}}}-1)$
 					</p>
 
-				</section>
-
-				<section data-auto-animate>
-					<h4>Condensadores</h4>
-					<p>Componentes capaces de acumular energía a través de un campo eléctrico
-					</p>
-					<p>
-						$i_C=C\frac{dV}{dt}$
-					</p>
 
 				</section>
-
-
-				<section data-auto-animate>
-					<h4>Inductores</h4>
-					<p>Componentes capaces de acumular energía en forma de campo magnético cuando la corriente fluye por
-						ellos
-					</p>
-					<p>
-						$V_L = L \frac{di}{dt}$
-					</p>
-
-				</section>
-
-				<section data-auto-animate>
-					<h4>Régimen permanente</h4>
-					<p>Cuando un circuito se encuentra en un estado sin cambios en sus respectivos voltajes y corrientes
-					</p>
-					<img data-id="im" class="r-stretch" src="images/C01/RegimenPermanente-0.svg">
-
-				</section>
-
-				<section data-auto-animate>
-					<h4>Régimen permanente</h4>
-					<p>Los condensadores se comportan como circuito abierto</p>
-					<img data-id="im" class="r-stretch" src="images/C01/RegimenPermanente-1.svg">
-
-				</section>
-
-				<section data-auto-animate>
-					<h4>Régimen permanente</h4>
-					<p>Los inductores se comportan como corto circuito</p>
-					<img data-id="im" class="r-stretch" src="images/C01/RegimenPermanente-2.svg">
-
-				</section>
-
-				<section data-auto-animate>
-					<h4>Régimen Transiente</h4>
-					<p>Cuando un circuito está pasando por un cambio en sus respectivos voltajes y corrientes</p>
-				</section>
-
-
-				<section data-auto-animate>
-					<h4>Análisis transiente de un condensador</h4>
-					<img class="r-stretch" src="images/C01/Condensador.svg">
-				</section>
-
 			</section>
 
 			<section>
-				<section data-auto-animate>
-					<h6 class="fragment">Supongamos que el switch está abierto en $t<0$ </h6>
-							<img data-id="im" class="r-stretch" src="images/C01/Condensador.svg">
-							<p class="fragment">
-								$i_C=C\frac{dVc}{dt}$ <span class="fragment">$=C*0=0$</span>
-							</p>
+				<section>
+					<h2>Métodos de análisis de circuitos no lineales</h2>
+
+				</section>
+
+				<section>
+					<h6>Métodos de análisis de circuitos no lineales:</h6>
+
+					<h2>Solución analítica</h2>
+					<p>Análisis directamente alegraico utilizando las ecuaciones de los componentes.</p>
+
+
 				</section>
 
 				<section data-auto-animate>
-					<h6>Supongamos que el switch se cierra en $t=0$ </h6>
-					<img data-id="im" class="r-stretch" src="images/C01/CondensadorCerrado.svg">
-				</section>
+					<h6>Ejemplo de Solución analítica</h2>
 
-				<section data-auto-animate>
-					<h6>En $t=\infty$ estamos en régimen permanente</h6>
-					<img data-id="im" class="r-stretch" src="images/C01/CondensadorCerrado2.svg">
-					<p class="fragment">
-						$i_C=C\frac{dVc}{dt}$ <span class="fragment">$=C*0=0$</span>
-					</p>
-					<p class="fragment">
-						$V_R=Vs-Vc$ <span class="fragment">$=I*R=0*R$</span>
-					</p>
-					<p class="fragment">$V_c=Vs$
-					</p>
-				</section>
-
-				<section data-auto-animate>
-					<p>Para $t$ mayor a 0 estamos en régimen transiente </p>
-					<img data-id="im" class="r-stretch" src="images/C01/CondensadorCerrado.svg">
-					<p class="fragment" data-id="vc">
-						$V_c=V_s(1-e^{\frac{-t}{RC}})$</span>
-					</p>
-					<p class="fragment" data-id="ic">
-						$i_C=C\frac{dVc}{dt}$ <span class="fragment">$=\frac{V_s}{R}e^{\frac{-t}{RC}}$</span>
-					</p>
-				</section>
-
-				<section data-auto-animate>
-					<p>Definimos la constante de tiempo $\tau=RC$ </p>
-					<img data-id="im" class="r-stretch" src="images/C01/CondensadorCerrado.svg">
-					<p class="fragment" data-id="vc">
-						$V_c=V_s(1-e^{\frac{-t}{\tau}})$</span>
-					</p>
-					<p class="fragment" data-id="ic">
-						$i_C=\frac{V_s}{R}e^{\frac{-t}{\tau}}$
-					</p>
-				</section>
-
-				<section data-auto-animate>
-					<h6>Circuito RC en la transiente</h6>
-					<div class="row">
-						<div class="col">
-							<img data-id="im" class="r-stretch" src="images/C01/CondensadorCerrado.svg">
-							<p class="fragment" data-id="vc">
-								$V_c=V_s(1-e^{\frac{-t}{\tau}})$</span>
-							</p>
-							<p class="fragment" data-id="ic">
-								$i_C=\frac{V_s}{R}e^{\frac{-t}{\tau}}$
-							</p>
+						<div class="r-stack r-stretch" data-id="diodo">
+							<img src="images/C02/CircuitoDiodo-1.svg">
+							<img class="fragment " src="images/C02/CircuitoDiodo-2.svg">
 						</div>
-						<div class="col">
 
-							<div class="r-stack" data-id="cte">
-								<img class="fragment r-stretch" src="images/C01/CteC-1.svg">
-								<img class="fragment r-stretch" src="images/C01/CteC-2.svg">
+				</section>
+
+				<section data-auto-animate>
+					<h6>Ejemplo de Solución analítica</h2>
+
+						<div class="row">
+
+							<div class="col" data-id="diodo">
+
+								<div class="r-stack r-stretch">
+									<img src="images/C02/CircuitoDiodo-1.svg">
+									<img src="images/C02/CircuitoDiodo-2.svg">
+								</div>
+							</div>
+
+							<div class="col">
+
+								<p>
+									<span class="fragment">
+										Para el diodo tenemos:
+										$I_D=I_S(e^{\frac{V_D}{V_{TH}}}-1)$
+									</span>
+
+									<span class="fragment">
+										Para la resistencia:
+										$I_R=\frac{V-V_D}{R}$
+									</span>
+								</p>
+								
+
 							</div>
 						</div>
 
 				</section>
 
 				<section data-auto-animate>
-					<h6>Constante de tiempo</h6>
-					<div class="r-stack" data-id="cte">
-						<img class="r-stretch" src="images/C01/CteC-1.svg">
-						<img class="r-stretch" src="images/C01/CteC-2.svg">
-						<img class="fragment r-stretch" src="images/C01/CteC-3.svg">
-						<img class="fragment r-stretch" src="images/C01/CteC-4.svg">
-					</div>
+					<h6>Ejemplo de Solución analítica</h2>
 
-				</section>
+						<div class="row">
 
-				<section>
+							<div class="col" data-id="diodo">
 
-					<h6>Bingo electrónico</h6>
-					<countdown time="900" autostart="yes"></countdown>
+								<div class="r-stack r-stretch">
+									<img src="images/C02/CircuitoDiodo-1.svg">
+									<img src="images/C02/CircuitoDiodo-2.svg">
+								</div>
+							</div>
 
-					<p style="font-size:70%;">
-						Cada grupo deberá decidir a cuál de las siguientes configuraciones perteneces cada gráfico. Los
-						valores posibles para las resistencias son 50K, 10K y 1K, mientras que para los capacitores son
-						1uF o 100nF.
-					</p>
+							<div class="col">
 
-
-					<div class="row">
+								
+								<p class="fragment">
+									Uniendo ambas ecuaciones, obtenemos:
+									$I_S(e^{\frac{V_D}{V_{TH}}}-1)=\frac{V-V_D}{R}$
+								</p>
 
 
-						<div class="column">
-							<img class="image--changed-with-container" src="images/C01/Bingo.svg">
-							<img class="image--changed-with-container" src="images/C01/Bingo2.svg">
 
-
+							</div>
 						</div>
 
-						<div class="column">
-							<img class="image--changed-with-container" src="images/C01/Bingo3.svg">
-							<img class="image--changed-with-container" src="images/C01/Bingo4.svg">
-						</div>
-					</div>
 
 
 
-
-
-
-
-
-
-				</section>
-			</section>
-
-
-			<section>
-				<section>
-					<h5>Repaso Condensadores</h5>
 				</section>
 
 
 				<section>
-					<h6>De forma individual, responde:</h6>
-					<h4> ¿Cuál es el voltaje del condensador en régimen permanente si Vs=10V R=100 y C=100u?</h4>
-					<div class="row">
-						<div class="col">
-							<img class="r-stretch" src="images/C01/CondensadorCerrado.svg">
-						</div>
-						<div class="col">
-							<ul>
-								<li> a) 0V</li>
-								<li> b) 1V</li>
-								<li> c) 5V</li>
-								<li> d) 10V</li>
-							</ul>
+					<h6>Métodos de análisis de circuitos no lineales:</h6>
 
-						</div>
-					</div>
+					<h2>Solución gráfica</h2>
+					<p>Análisis mediante gráficos de las ecuaciones de los componentes.</p>
+
+
 				</section>
+
+
+				<section data-auto-animate>
+					<h6>Ejemplo de Solución gráfica</h2>
+
+						<div class="row">
+
+							<div class="col" data-id="diodo">
+
+								<div class="r-stack r-stretch">
+									<img src="images/C02/CircuitoDiodo-1.svg">
+									<img src="images/C02/CircuitoDiodo-2.svg">
+								</div>
+							</div>
+
+							<div class="col">
+
+								<p>
+									
+										$I_D=I_S(e^{\frac{V_D}{V_{TH}}}-1)$
+									
+										
+										$I_R=\frac{V-V_D}{R}$
+									
+								</p>
+								
+
+							</div>
+						</div>
+
+				</section>
+
 
 				<section>
-					<h6>De forma individual, responde:</h6>
-					<h4> ¿Cuál es la corriente que pasa por el condensador en régimen permanente si Vs=10V R=100 y C=100u?</h4>
-					<div class="row">
-						<div class="col">
-							<img class="r-stretch" src="images/C01/CondensadorCerrado.svg">
-						</div>
-						<div class="col">
-							<ul>
-								<li> a) 0A</li>
-								<li> b) 10mA</li>
-								<li> c) 1A</li>
-								<li> d) 5A</li>
-							</ul>
+					<h6>Métodos de análisis de circuitos no lineales:</h6>
 
-						</div>
-					</div>
+					<h2>Solución por partes</h2>
+					<p>Análisis mediante circuitos equivalentes para distintas opciones.</p>
+
+
 				</section>
 
-				<section>
-					<h6>De forma individual, responde:</h6>
-					<h4> ¿Cuánto tiempo tardará en cargarse por completo el condensador luego de cerrarse el switch si Vs=5V R=1k y C=1u?
-					</h4>
-					<div class="row">
-						<div class="col">
-							<img class="r-stretch" src="images/C01/Condensador.svg">
-						</div>
-						<div class="col">
-							<ul>
-								<li> a) 1us</li>
-								<li> b) 1ms</li>
-								<li> c) 5ms</li>
-								<li> d) 1s</li>
-							</ul>
+				<section data-auto-animate>
+					<h6>Ejemplo de Solución gráfica</h2>
 
+						<div class="row">
+
+							<div class="col" data-id="diodo">
+
+								<div class="r-stack r-stretch">
+									<img src="images/C02/CircuitoDiodo-1.svg">
+									<img src="images/C02/CircuitoDiodo-2.svg">
+								</div>
+							</div>
+
+							<div class="col">
+
+								<p>
+									<span class="fragment">
+										Diodo ON: Corto circuito
+									</span>
+
+									<span class="fragment">
+										Diodo OFF: Circuito abierto
+									</span>
+								</p>
+								
+
+							</div>
 						</div>
-					</div>
+
 				</section>
 
-				<section>
-					<h6>De forma individual, responde:</h6>
-					<h4> ¿Cuánto tiempo tardará en cargarse el condensador hasta 5V, luego de cerrarse el switch si Vs=10V R=1M y C=1u?
-					</h4>
-					<div class="row">
-						<div class="col">
-							<img class="r-stretch" src="images/C01/Condensador.svg">
-						</div>
-						<div class="col">
-							<ul>
-								<li> a) 100ms</li>
-								<li> b) 0.7ms</li>
-								<li> c) 1s</li>
-								<li> d) 0.7s</li>
-							</ul>
 
-						</div>
-					</div>
-				</section>
 
 			</section>
-
-
-
-
-
 
 
 

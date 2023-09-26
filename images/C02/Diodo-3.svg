@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="38.805809mm"
+   height="23.235645mm"
+   viewBox="0 0 38.805809 23.235645"
+   version="1.1"
+   id="svg3387"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3384">
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+  </defs>
+  <g
+     id="layer3"
+     style="display:inline">
+    <path
+       style="display:inline;fill:#800080;stroke:#800080;stroke-width:0.608542;stroke-linejoin:bevel;stroke-miterlimit:4.4;marker-end:url(#Arrow2)"
+       d="m 110.16214,146.44948 h 4.7625"
+       id="path3882"
+       transform="translate(-104.2989,-138.2474)" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:center;text-anchor:middle;display:inline;fill:#800080;stroke:#800080;stroke-width:0.608542;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+       x="106.59685"
+       y="148.01016"
+       id="text3644-5"
+       transform="translate(-104.2989,-138.2474)"><tspan
+         id="tspan3642-5"
+         style="stroke-width:0.608542"
+         x="106.59685"
+         y="148.01016">I<tspan
+   style="font-size:4.93889px"
+   id="tspan3646-2">D</tspan></tspan></text>
+  </g>
+</svg>
