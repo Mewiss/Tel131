@@ -25,14 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="3.2694716"
-     inkscape:cx="268.54492"
-     inkscape:cy="91.452087"
+     inkscape:cx="233.37104"
+     inkscape:cy="109.80368"
      inkscape:window-width="2880"
      inkscape:window-height="1514"
      inkscape:window-x="2869"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g48" />
+     inkscape:current-layer="layer1-9" />
   <defs
      id="defs2">
     <clipPath
@@ -46,8 +46,9 @@
     </clipPath>
   </defs>
   <g
-     id="g48"
-     transform="translate(-0.5,27.256679)">
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Base">
     <rect
        x="150"
        y="0"
@@ -57,12 +58,62 @@
        stroke="none"
        pointer-events="all"
        id="rect44"
-       style="stroke-width:3;stroke-dasharray:none" />
+       style="stroke-width:3;stroke-dasharray:none"
+       transform="translate(-0.5,27.256679)" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-opacity:1"
-       d="M 340,152 H 90 V -27.756679"
+       style="fill:none;stroke:#000000;stroke-width:4.01245;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-opacity:1"
+       d="M 443.30659,178.76592 H 90.06295 V -48.81039"
        id="path522"
        sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:center;text-anchor:middle;fill:#800080;stroke:#800080;stroke-width:2.3;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+       x="56.278206"
+       y="-20.416042"
+       id="text5064"
+       transform="translate(-0.5,27.256679)"><tspan
+         sodipodi:role="line"
+         id="tspan5062" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:center;text-anchor:middle;fill:#800080;stroke:#800080;stroke-width:2.3;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+       x="292.40198"
+       y="196.13271"
+       id="text5350"
+       transform="translate(-0.5,27.256679)"><tspan
+         sodipodi:role="line"
+         id="tspan5348" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:center;text-anchor:middle;display:inline;fill:#800080;stroke:#800080;stroke-width:2.3;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+       x="443.41916"
+       y="169.81912"
+       id="text3644"><tspan
+         sodipodi:role="line"
+         id="tspan3642"
+         style="stroke-width:2.3"
+         x="443.41916"
+         y="169.81912">V<tspan
+   style="font-size:18.6667px;stroke-width:2.3"
+   id="tspan3646">D</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:center;text-anchor:middle;display:inline;fill:#800080;stroke:#800080;stroke-width:2.3;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+       x="73.654404"
+       y="-47.873928"
+       id="text3644-5"><tspan
+         sodipodi:role="line"
+         id="tspan3642-5"
+         style="stroke-width:2.3"
+         x="73.654404"
+         y="-47.873928">I<tspan
+   style="font-size:18.6667px;stroke-width:2.3"
+   id="tspan3646-2">D</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Diodo">
     <path
        d="m 92.208142,150.23912 h 9.036198 9.0362 9.34779 9.0362 9.0362 9.0362 9.34779 9.0362 9.0362 9.0362 9.0362 9.34779 c 0,0 6.02413,0 9.03619,0 3.01207,0 6.02413,0 9.0362,0 3.01207,0 6.02413,0 9.0362,0 3.11593,0 6.23667,0.17295 9.3478,0 3.02607,-0.16822 6.11153,-0.21301 9.0362,-1.00779 3.18277,-0.86492 6.88085,-1.53464 9.03619,-4.03116 7.29541,-8.45024 7.28798,-21.2232 9.0362,-32.24923 11.42518,-72.058786 9.0362,-218.69014 9.0362,-218.69014"
        stroke="#4472c4"
@@ -72,52 +123,105 @@
        stroke-miterlimit="10"
        fill="none"
        id="path3003"
-       sodipodi:nodetypes="cccccccccccccaaaaaaac" />
-    <text
-       xml:space="preserve"
-       style="font-size:18.6667px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:center;text-anchor:middle;fill:#800080;stroke:#800080;stroke-width:2.3;stroke-linejoin:bevel;stroke-miterlimit:4.4"
-       x="56.278206"
-       y="-20.416042"
-       id="text5064"><tspan
-         sodipodi:role="line"
-         id="tspan5062"></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18.6667px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:center;text-anchor:middle;fill:#800080;stroke:#800080;stroke-width:2.3;stroke-linejoin:bevel;stroke-miterlimit:4.4"
-       x="292.40198"
-       y="196.13271"
-       id="text5350"><tspan
-         sodipodi:role="line"
-         id="tspan5348"></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:center;text-anchor:middle;display:inline;fill:#800080;stroke:#800080;stroke-width:2.3;stroke-linejoin:bevel;stroke-miterlimit:4.4"
-       x="364.81927"
-       y="152.34996"
-       id="text3644"><tspan
-         sodipodi:role="line"
-         id="tspan3642"
-         style="stroke-width:2.3"
-         x="364.81927"
-         y="152.34996">V<tspan
-   style="font-size:18.6667px;stroke-width:2.3"
-   id="tspan3646">D</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:center;text-anchor:middle;display:inline;fill:#800080;stroke:#800080;stroke-width:2.3;stroke-linejoin:bevel;stroke-miterlimit:4.4"
-       x="68.648926"
-       y="-5.700429"
-       id="text3644-5"><tspan
-         sodipodi:role="line"
-         id="tspan3642-5"
-         style="stroke-width:2.3"
-         x="68.648926"
-         y="-5.700429">I<tspan
-   style="font-size:18.6667px;stroke-width:2.3"
-   id="tspan3646-2">D</tspan></tspan></text>
+       sodipodi:nodetypes="cccccccccccccaaaaaaac"
+       transform="translate(-0.5,27.256679)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Corriente" />
+     inkscape:label="R1"
+     style="display:inline">
+    <path
+       style="fill:#ff00ff;stroke:#008080;stroke-width:3;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+       d="M 90.947297,13.840257 340,152 v 0 0"
+       id="path303"
+       transform="translate(-0.5,27.256679)" />
+    <path
+       style="fill:#ff00ff;stroke:#008080;stroke-width:3;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+       d="m 67.50781,41.096936 c 22.939487,0 22.939487,0 22.939487,0"
+       id="path466" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:13.3333px;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#008080;stroke-width:1;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none"
+       x="48.879276"
+       y="37.973194"
+       id="text522"><tspan
+         sodipodi:role="line"
+         id="tspan520"
+         x="48.879276"
+         y="37.973194"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000000;fill-opacity:1;stroke:#008080;stroke-width:1;stroke-dasharray:none;stroke-opacity:1">V-VD</tspan><tspan
+         sodipodi:role="line"
+         x="48.879276"
+         y="54.63982"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000000;fill-opacity:1;stroke:#008080;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan1231">R</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#008080;stroke-width:1;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 34.313558,42.09696 62.924166,41.805139"
+       id="path1334" />
+    <path
+       style="fill:#ff00ff;stroke:#008080;stroke-width:3;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+       d="m 338,201.07595 c 0,-22.93948 0,-22.93948 0,-22.93948"
+       id="path466-0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#008080;stroke-width:1;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+       x="338"
+       y="214.69417"
+       id="text1412"><tspan
+         sodipodi:role="line"
+         id="tspan1410"
+         x="338"
+         y="214.69417">V</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1-9"
+     inkscape:label="R1-V2"
+     style="display:inline"
+     transform="translate(86.854969,-2.1173192)">
+    <path
+       style="fill:#ff00ff;stroke:#008080;stroke-width:3;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none"
+       d="M 4.5701489,-6.8548296 339.24983,178.80571 v 0 0"
+       id="path303-5" />
+    <path
+       style="fill:#ff00ff;stroke:#008080;stroke-width:3;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+       d="m -18.369338,-6.8548296 c 22.9394869,0 22.9394869,0 22.9394869,0"
+       id="path466-1" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:13.3333px;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#008080;stroke-width:1;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none"
+       x="-36.997871"
+       y="-9.9785719"
+       id="text522-9"><tspan
+         sodipodi:role="line"
+         id="tspan520-5"
+         x="-36.997871"
+         y="-9.9785719"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000000;fill-opacity:1;stroke:#008080;stroke-width:1;stroke-dasharray:none;stroke-opacity:1">V2-VD</tspan><tspan
+         sodipodi:role="line"
+         x="-36.997871"
+         y="6.6880527"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000000;fill-opacity:1;stroke:#008080;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan1231-8">R</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#008080;stroke-width:1;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -51.56359,-5.8548056 28.610608,-0.291821"
+       id="path1334-7" />
+    <path
+       style="fill:#ff00ff;stroke:#008080;stroke-width:3;stroke-linejoin:bevel;stroke-miterlimit:4.4"
+       d="m 338,201.07595 c 0,-22.93948 0,-22.93948 0,-22.93948"
+       id="path466-0-8" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#008080;stroke-width:1;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-opacity:1"
+       x="338"
+       y="214.69417"
+       id="text1412-0"><tspan
+         sodipodi:role="line"
+         id="tspan1410-0"
+         x="338"
+         y="214.69417">V2</tspan></text>
+  </g>
 </svg>

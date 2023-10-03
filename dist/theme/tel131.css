@@ -426,3 +426,6 @@ section.has-dark-background h6 {
   width: auto;
   height: 35%;
 }
+
+
+ol.alphaList {list-style-type: lower-alpha;}
