@@ -313,7 +313,7 @@
 				</section>
 
 				<section>
-					
+
 					<h2>Pasos Solución por partes</h2>
 					<ul>
 						<li>Reemplazar por posibles circuitos equivalentes</li>
@@ -356,7 +356,8 @@
 				<section>
 
 					<p>De forma individual, responde:</p>
-					<h6> Para valores conocidos de las entradas y la resistencia ¿Cuántos circuitos equivalentes posibles hay para el siguiente circuito?</h6>
+					<h6> Para valores conocidos de las entradas y la resistencia ¿Cuántos circuitos equivalentes
+						posibles hay para el siguiente circuito?</h6>
 					<div class="row">
 						<div class="col">
 							<img class="r-stretch" src="images/C02/CircuitoMaxOff.svg">
@@ -374,7 +375,7 @@
 
 				</section>
 
-				
+
 				<section>
 
 					<p>De forma individual, responde:</p>
@@ -399,7 +400,7 @@
 				<section>
 
 					<p>De forma individual, responde:</p>
-					<h6> Si ambas entradas son de 5V y R=10  ¿Cuál es el voltaje de salida?. Considera Vth=1.1V</h6>
+					<h6> Si ambas entradas son de 5V y R=10 ¿Cuál es el voltaje de salida?. Considera Vth=1.1V</h6>
 					<div class="row">
 						<div class="col">
 							<img class="r-stretch" src="images/C02/CircuitoMaxOff.svg">
@@ -420,11 +421,6 @@
 
 
 			</section>
-			<section>
-				<section>
-					<h2>Transistores tipo mosfet</h2>
-				</section>
-			</section>
 
 
 			<section>
@@ -439,7 +435,7 @@
 						<li class="fragment">Reflexión</li>
 					</ul>
 				</section>
-				
+
 				<section>
 					<h2>Bibliografía anotada</h2>
 					<p class="fragment">Selección y anotación de fuentes que puedan
@@ -483,14 +479,19 @@
 
 				<section>
 					<ul>
-						<li>¿Cómo funcionan los sensores de fotografía de los teléfonos móviles de los últimos 10 años?</li>
-						<li>¿Cómo impacta el uso de interruptores inteligentes en el consumo energético de un hogar?</li>
-						<li>¿Cómo ha revolucionado la electrónica digital la atención médica y cuáles son los desafíos actuales en la implementación de dispositivos médicos digitales?</li>
+						<li>¿Cómo funcionan los sensores de fotografía de los teléfonos móviles de los últimos 10 años?
+						</li>
+						<li>¿Cómo impacta el uso de interruptores inteligentes en el consumo energético de un hogar?
+						</li>
+						<li>¿Cómo ha revolucionado la electrónica digital la atención médica y cuáles son los desafíos
+							actuales en la implementación de dispositivos médicos digitales?</li>
 						<li>¿Cómo ha evolucionado la electrónica de los drones de grabación?</li>
-						<li>¿Cómo se puede utilizar la electrónica digital en la enseñanza y el aprendizaje de conceptos de ciencias y tecnología en entornos educativos?</li>
-						<li>¿Cuál es el impacto de la tecnología de nanotransistores en la reducción del consumo de energía en dispositivos electrónicos?</li>
+						<li>¿Cómo se puede utilizar la electrónica digital en la enseñanza y el aprendizaje de conceptos
+							de ciencias y tecnología en entornos educativos?</li>
+						<li>¿Cuál es el impacto de la tecnología de nanotransistores en la reducción del consumo de
+							energía en dispositivos electrónicos?</li>
 					</ul>
-					
+
 				</section>
 
 				<section>
@@ -520,10 +521,165 @@
 
 				</section>
 
-				
+
 			</section>
 
 
+			<section>
+				<section>
+					<h2>Transistores tipo mosfet</h2>
+				</section>
+
+				<section>
+					<h4>Transistor</h4>
+					<p class="fragment">Dispositivo electrónico que controla y amplifica el flujo de corriente eléctrica en un circuito</p>
+					<p class="fragment">En electrónica digital los usamos como switches controlados por voltaje.</p>
+				</section>
+
+				<section data-auto-animate>
+					<h4>MOSFET</h4>
+					<p class="fragment">Metal-Oxide-Semiconductor Field-Effect Transistor</p>
+					<p class="fragment">Transistor de Efecto de Campo Metal-Óxido-Semiconductor</p>
+					
+				</section>
+
+				
+				<section data-auto-animate>
+					<h4>MOSFET</h4>
+					<p>Utiliza un campo eléctrico para controlar el flujo de corriente entre su fuente y drenaje.</p>
+				</section>
+
+				<section>
+					<h6>Valores relevantes de un MOSFET</h6>
+					<div class="row">
+						<div class="col">
+							<img src="images/C02/mosfet.png">
+							<ul>
+								<li class="fragment">G=Gate</li>
+								<li class="fragment">D=Drain</li>
+								<li class="fragment">S=Source</li>
+							</ul>
+						</div>
+
+						<div class="col fragment">
+							<p>Valores relevantes</p>
+							<ul>
+								<li class="fragment">$V_{GS}$</li>
+								<li class="fragment">$V_{DS}$</li>
+								<li class="fragment">$V_T$</li>
+								<li class="fragment">$I_G$</li>
+								<li class="fragment">$I_{DS}$</li>
+							</ul>
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<h6>Modelo tipo switch del MOSFET</h6>
+					<div class="row">
+						<div class="col">
+							<img src="images/C02/mosfet.png">
+						</div>
+
+						<div class="col">
+							<img  class="r-stretch" src="images/C02/mosfetON.png">
+							<p>Modo ON</p>
+							<ul>
+								<li>$V_{GS}\geq V_T$</li>
+								<li>$I_G=0$</li>
+								<li>$V_{DS}=0$</li>
+							</ul>
+						</div>
+
+
+						<div class="col">
+							<img  class="r-stretch" src="images/C02/mosfetOFF.png">
+							<p>Modo OFF</p>
+							<ul>
+								<li>$V_{GS}< V_T$</li>
+								<li>$I_G=0$</li>
+								<li>$I_{DS}=0$</li>
+							</ul>
+						</div>
+					</div>
+
+				</section>
+
+				<section>
+					<h3>Análisis circuito con modelo tipo switch para el MOSFET</h3>
+					<img src="images/C02/mosfetInversor.png">
+				</section>
+
+				
+				<section data-auto-animate>
+					<h3>Actividad en grupos</h3>
+					<p>Analicen el siguiente circuito usando el modelo de tipo switch, para una entrada entre 0V y 5V con un valor de $V_T=1.1V$. Dibujen la función de transferencia. </p>
+					<img class="r-stretch" src="images/C02/mosfetBuffer.png">
+
+					
+				</section>
+
+				
+				<section data-auto-animate>
+					<h3>Actividad en grupos</h3>
+					<p>Analicen el siguiente circuito usando el modelo de tipo switch, para una entrada entre 0V y 5V con un valor de $V_T=1.1V$. Dibujen la función de transferencia. </p>
+					<img class="r-stretch" src="images/C02/mosfetBuffer.png">
+
+					<countdown time="600" autostart="yes"></countdown>
+				</section>
+
+				<section>
+					<h6>Modelo tipo switch-resistencia del MOSFET</h6>
+					<div class="row">
+						<div class="col">
+							<img src="images/C02/mosfet.png">
+						</div>
+
+						<div class="col">
+							<img  class="r-stretch" src="images/C02/mosfetONR.png">
+							<p style="font-size:60%;">Modo ON</p>
+							<ul style="font-size:60%;">
+								<li>$V_{GS}\geq V_T$</li>
+								<li>$I_G=0$</li>
+								<li>$I_{DS}=V_{DS}/R_{ON}$</li>
+							</ul>
+						</div>
+
+
+						<div class="col">
+							<img class="r-stretch" src="images/C02/mosfetOFF.png">
+							<p>Modo OFF</p>
+							<ul>
+								<li>$V_{GS}< V_T$</li>
+								<li>$I_G=0$</li>
+								<li>$I_{DS}=0$</li>
+							</ul>
+						</div>
+					</div>
+
+				</section>
+
+				<section>
+					<h3>Análisis circuito con modelo tipo switch para el MOSFET</h3>
+					<img src="images/C02/mosfetInversor.png">
+				</section>
+
+				
+				<section data-auto-animate>
+					<h3>Actividad en grupos</h3>
+					<p>Analicen el siguiente circuito usando el modelo de tipo switch-resistencia, para una entrada entre 0V y 5V con un valor de $V_T=1.1V$ y $R_{ON}=10\Omega$. Dibujen la función de transferencia. ¿Qué efectos tiene cada modelo?</p>
+					<img class="r-stretch" src="images/C02/mosfetBuffer.png">
+
+				</section>
+
+				<section data-auto-animate>
+					<h3>Actividad en grupos</h3>
+					<p>Analicen el siguiente circuito usando el modelo de tipo switch-resistencia, para una entrada entre 0V y 5V con un valor de $V_T=1.1V$ y $R_{ON}=10\Omega$. Dibujen la función de transferencia. ¿Qué efectos tiene cada modelo?</p>
+					<img class="r-stretch" src="images/C02/mosfetBuffer.png">
+
+					<countdown time="720" autostart="yes"></countdown>
+				</section>
+			</section>
 
 		</div>
 
