@@ -532,8 +532,7 @@
 
 				<section>
 					<h4>Transistor</h4>
-					<p class="fragment">Dispositivo electrónico que controla y amplifica el flujo de corriente eléctrica
-						en un circuito</p>
+					<p class="fragment">Dispositivo electrónico que controla y amplifica el flujo de corriente eléctrica en un circuito</p>
 					<p class="fragment">En electrónica digital los usamos como switches controlados por voltaje.</p>
 				</section>
 
@@ -541,10 +540,10 @@
 					<h4>MOSFET</h4>
 					<p class="fragment">Metal-Oxide-Semiconductor Field-Effect Transistor</p>
 					<p class="fragment">Transistor de Efecto de Campo Metal-Óxido-Semiconductor</p>
-
+					
 				</section>
 
-
+				
 				<section data-auto-animate>
 					<h4>MOSFET</h4>
 					<p>Utiliza un campo eléctrico para controlar el flujo de corriente entre su fuente y drenaje.</p>
@@ -583,7 +582,7 @@
 						</div>
 
 						<div class="col">
-							<img class="r-stretch" src="images/C02/mosfetON.png">
+							<img  class="r-stretch" src="images/C02/mosfetON.png">
 							<p>Modo ON</p>
 							<ul>
 								<li>$V_{GS}\geq V_T$</li>
@@ -594,7 +593,7 @@
 
 
 						<div class="col">
-							<img class="r-stretch" src="images/C02/mosfetOFF.png">
+							<img  class="r-stretch" src="images/C02/mosfetOFF.png">
 							<p>Modo OFF</p>
 							<ul>
 								<li>$V_{GS}< V_T$</li>
@@ -611,21 +610,19 @@
 					<img src="images/C02/mosfetInversor.png">
 				</section>
 
-
+				
 				<section data-auto-animate>
 					<h3>Actividad en grupos</h3>
-					<p>Analicen el siguiente circuito usando el modelo de tipo switch, para una entrada entre 0V y 5V
-						con un valor de $V_T=1.1V$. Dibujen la función de transferencia. </p>
+					<p>Analicen el siguiente circuito usando el modelo de tipo switch, para una entrada entre 0V y 5V con un valor de $V_T=1.1V$. Dibujen la función de transferencia. </p>
 					<img class="r-stretch" src="images/C02/mosfetBuffer.png">
 
-
+					
 				</section>
 
-
+				
 				<section data-auto-animate>
 					<h3>Actividad en grupos</h3>
-					<p>Analicen el siguiente circuito usando el modelo de tipo switch, para una entrada entre 0V y 5V
-						con un valor de $V_T=1.1V$. Dibujen la función de transferencia. </p>
+					<p>Analicen el siguiente circuito usando el modelo de tipo switch, para una entrada entre 0V y 5V con un valor de $V_T=1.1V$. Dibujen la función de transferencia. </p>
 					<img class="r-stretch" src="images/C02/mosfetBuffer.png">
 
 					<countdown time="600" autostart="yes"></countdown>
@@ -637,10 +634,11 @@
 						<div class="col">
 							<img src="images/C02/mosfet.png">
 						</div>
+
 						<div class="col">
-							<img class="r-stretch" src="images/C02/mosfetONR.png">
-							<p>Modo ON</p>
-							<ul>
+							<img  class="r-stretch" src="images/C02/mosfetONR.png">
+							<p style="font-size:60%;">Modo ON</p>
+							<ul style="font-size:60%;">
 								<li>$V_{GS}\geq V_T$</li>
 								<li>$I_G=0$</li>
 								<li>$I_{DS}=V_{DS}/R_{ON}$</li>
@@ -666,229 +664,24 @@
 					<img src="images/C02/mosfetInversor.png">
 				</section>
 
-
+				
 				<section data-auto-animate>
 					<h3>Actividad en grupos</h3>
-					<p>Analicen el siguiente circuito usando el modelo de tipo switch-resistencia, para una entrada
-						entre 0V y 5V con un valor de $V_T=1.1V$ y $R_{ON}=10\Omega$. Dibujen la función de
-						transferencia. ¿Qué efectos tiene cada modelo?</p>
+					<p>Analicen el siguiente circuito usando el modelo de tipo switch-resistencia, para una entrada entre 0V y 5V con un valor de $V_T=1.1V$ y $R_{ON}=10\Omega$. Dibujen la función de transferencia. ¿Qué efectos tiene cada modelo?</p>
 					<img class="r-stretch" src="images/C02/mosfetBuffer.png">
 
 				</section>
 
-
 				<section data-auto-animate>
 					<h3>Actividad en grupos</h3>
-					<p>Analicen el siguiente circuito usando el modelo de tipo switch-resistencia, para una entrada
-						entre 0V y 5V con un valor de $V_T=1.1V$, $R_{ON}=10\Omega$ y $R_L=10K\Omega$. Dibujen la función de
-						transferencia. ¿Qué efectos tiene cada modelo?</p>
+					<p>Analicen el siguiente circuito usando el modelo de tipo switch-resistencia, para una entrada entre 0V y 5V con un valor de $V_T=1.1V$ y $R_{ON}=10\Omega$. Dibujen la función de transferencia. ¿Qué efectos tiene cada modelo?</p>
 					<img class="r-stretch" src="images/C02/mosfetBuffer.png">
 
 					<countdown time="720" autostart="yes"></countdown>
 				</section>
-			</section>
-
-
-			<section>
-				<section>
-					<h3>Función de transferencia y disciplina estática</h3>
-				</section>
-
-				<section>
-					<h2>Disciplina estática</h2>
-
-
-				</section>
-
-
-
-
-				<section data-auto-animate>
-					
-					<div class="r-stretch r-stack ">
-						<img  src="images/C02/TransferFunctionBuffer-1.svg" height="100%">
-						<img class="fragment" src="images/C02/TransferFunctionBuffer-2.svg" height="100%">
-						<img class="fragment" src="images/C02/TransferFunctionBuffer-3.svg" height="100%">
-						<img class="fragment" src="images/C02/TransferFunctionBuffer-4.svg" height="100%">						
-					</div>
-					<h6>Disciplina estática Buffer</h6>
-				</section>
-				
-				<section data-auto-animate>
-					
-					<div class="r-stretch r-stack ">
-						<img  src="images/C02/TransferFunctionInv-1.svg" height="100%">
-						<img class="fragment" src="images/C02/TransferFunctionInv-2.svg" height="100%">
-						<img class="fragment" src="images/C02/TransferFunctionInv-3.svg" height="100%">
-						<img class="fragment" src="images/C02/TransferFunctionInv-4.svg" height="100%">
-					</div>
-					<h6>Disciplina estática Inversor</h6>
-				</section>
-
-
-				<section data-auto-animate>
-					
-					<div class="r-stretch r-stack ">
-						<img  src="images/C02/TFBufferModelos-1.svg" height="100%">
-						<img  src="images/C02/TFBufferModelos-2.svg" height="100%">						
-						<img  src="images/C02/TFBufferModelos-3.svg" height="100%">						
-						<img  src="images/C02/TFBufferModelos-4.svg" height="100%">						
-						<img  class="fragment" src="images/C02/TFBufferModelos-5.svg" height="100%">						
-						<img  class="fragment" src="images/C02/TFBufferModelos-6.svg" height="100%">						
-					</div>
-					<h6>Comparación modelos y Disciplina estática Buffer </h6>
-				</section>
-
-				<section data-auto-animate>
-					
-					<div class="r-stretch r-stack ">
-						<img  src="images/C02/TFInverterModelos-1.svg" height="100%">
-						<img  src="images/C02/TFInverterModelos-2.svg" height="100%">
-						<img  src="images/C02/TFInverterModelos-3.svg" height="100%">
-						<img  src="images/C02/TFInverterModelos-4.svg" height="100%">
-						<img  class="fragment" src="images/C02/TFInverterModelos-5.svg" height="100%">						
-						<img  class="fragment" src="images/C02/TFInverterModelos-6.svg" height="100%">						
-					</div>
-					<h6>Comparación modelos y Disciplina estática Inverter </h6>
-				</section>
-
-				
-				<section data-auto-animate>
-					<h3>Actividad en grupos</h3>
-					<p>A partir de las funciones de transferencia obtenidas anteriormente, obtén los valores de la disciplina estática más convenientes para cada caso.</p>
-					<img class="r-stretch" src="images/C02/mosfetBuffer.png">
-
-					
-				</section>
-
-				
-				<section data-auto-animate>
-					<h3>Actividad en grupos</h3>
-					<p>A partir de las funciones de transferencia obtenidas anteriormente, obtén los valores de la disciplina estática más convenientes para cada caso.</p>
-					<img class="r-stretch" src="images/C02/mosfetBuffer.png">
-
-					<countdown time="720" autostart="yes"></countdown>
-				</section>
-
-
-				
-				<section data-auto-animate>
-					<h3>Actividad en grupos</h3>
-					<p>A partir de las funciones de transferencia obtenidas anteriormente, obtén los valores de la disciplina estática más convenientes para cada caso.</p>
-					<img class="r-stretch" src="images/C02/mosfetBuffer.png">
-
-					
-				</section>
-
-				
-				<section data-auto-animate>
-					<h3>Actividad en grupos</h3>
-					<p>Para cada caso, calcula la potencia consumida.</p>
-					<img class="r-stretch" src="images/C02/mosfetBuffer.png">
-
-					<countdown time="720" autostart="yes"></countdown>
-				</section>
-
-			</section>
-
-			<section>
-				<section>
-					<h4>Funcionamiento real de un MOSFET</h4>
-				</section>
-
-				<section>
-					
-					<iframe class="r-stretch" src="https://www.youtube.com/embed/kY-ka0PriaE" title="NMOS vs PMOS and Enhancement vs Depletion Mode MOSFETs | Intermediate Electronics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-				
-
-				</section>
-
-				<section>
-					<h6>Funcionamiento real de un MOSFET</h6>
-					<img  class="r-stretch" src="images/C02/EquivalenciasMosfet.png" height="100%">					
-				</section>
-				
-
-				<section>
-					<h6>Funcionamiento real de un MOSFET</h6>
-					<div class="r-stretch r-stack ">
-						<img  src="images/C02/ZonasMOSFET-1.svg" height="100%">
-						<img  class="fragment" src="images/C02/ZonasMOSFET-2.svg" height="100%">
-						<img  class="fragment" src="images/C02/ZonasMOSFET-3.svg" height="100%">
-						<img  class="fragment" src="images/C02/ZonasMOSFET-4.svg" height="100%">
-						<img  class="fragment" src="images/C02/ZonasMOSFET-5.svg" height="100%">					
-					</div>
-				</section>
-
-				<section>
-					<h6>Funcionamiento real de un MOSFET</h6>
-					<img  class="r-stretch" src="images/C02/Mosfet_VariasCurvas.svg" height="100%">					
-				</section>
-
-				
-			</section>
-
-
-			<section>
-				
-				<section data-auto-animate>
-					<h4>BJT</h4>
-					<img src="images/C02/bjtbase.png" height="80%">	
-				</section>
-
-				<section data-auto-animate>
-					<h4>BJT</h4>
-					<img src="images/C02/bjt.png" height="80%">	
-				</section>
-
-				<section>
-					<h6>Regiones de operación de un BJT</h6>
-					<div class="row">
-						<div class="col">
-							<img class="fragment" src="images/C02/bjt-corte.png"> 
-						</div>
-						
-						<div class="col">
-							<img class="fragment" src="images/C02/bjt-activa.png"> 
-						</div>
-						<div class="col">
-							<img class="fragment" src="images/C02/bjt-saturacion.png"> 
-						</div>
-					</div>
-				</section>
-
-				<section>
-					<h6>Regiones de operación de un BJT</h6>
-					<img  class="r-stretch" src="images/C02/tablazonas.png" height="100%">					
-				</section>
-
-				
-
-				<section>
-					<h6>Regiones de operación de un BJT</h6>
-					
-					<div class="r-stretch r-stack ">
-						<img  src="images/C02/ZonasBJT-1.svg" height="100%">
-						<img  class="fragment" src="images/C02/ZonasBJT-2.svg" height="100%">
-						<img  class="fragment" src="images/C02/ZonasBJT-3.svg" height="100%">
-						<img  class="fragment" src="images/C02/ZonasBJT-4.svg" height="100%">
-						<img  class="fragment" src="images/C02/ZonasBJT-5.svg" height="100%">					
-					</div>
-				</section>
-
-				<section>
-					<h6>Regiones de operación de un BJT</h6>
-					<img  class="r-stretch" src="images/C02/BJT_VariasCurvas.svg" height="100%">					
-				</section>
-
-				
-
-				
 			</section>
 
 		</div>
-
-
 
 
 
