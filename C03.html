@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	<title>reveal.js</title>
+
+	<link rel="stylesheet" href="dist/reset.css">
+	<link rel="stylesheet" href="dist/reveal.css">
+	<link rel="stylesheet" href="dist/theme/tel131.css">
+	<link rel="stylesheet" href="css/animRestricciones.css">
+	<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<!-- Theme used for syntax highlighted code -->
+	<link rel="stylesheet" href="plugin/highlight/monokai.css">
+
+	<style>
+		.fragment.bold {
+			font-weight: normal;
+		}
+
+		.fragment.bold.visible {
+			font-weight: bold;
+		}
+
+		.reveal td {
+			font-size: 60%;
+		}
+
+		.tg {
+			border-collapse: collapse;
+			border-spacing: 0
+		}
+
+		.tg td {
+			border-color: black;
+			border-style: solid;
+			border-width: 1px;
+			font-family: Arial, sans-serif;
+			font-size: 28px;
+			overflow: hidden;
+			padding: 10px 5px;
+			word-break: normal;
+		}
+
+		.tg th {
+			border-color: black;
+			border-style: solid;
+			border-width: 1px;
+			font-family: Arial, sans-serif;
+			font-size: 28px;
+			font-weight: normal;
+			overflow: hidden;
+			padding: 10px 5px;
+			word-break: normal;
+		}
+
+		.tg .tg-0lax {
+			text-align: center;
+			vertical-align: center;
+			font-size: 3vw;
+			border-width: 2px
+		}
+
+		.tg .tg-small {
+			text-align: center;
+			vertical-align: center;
+			font-size: 2vw
+		}
+
+		.smalltab {
+			font-size: 2vw
+		}
+	</style>
+</head>
+
+<body>
+
+	<div class="reveal">
+		<div class="slides">
+
+			<section class="Title" data-include>
+				<p class="r-fit-text">TEL131 Electrónica Digital</p>
+				<h2>Aplicaciones de la Electrónica Digital</h2>
+				<p>Marie González-Inostroza</p>
+
+			</section>
+
+			<section>
+				<p class="r-fit-text">TEL131 Electrónica Digital</p>
+				<h6>Aplicaciones de la Electrónica Digital</h6>
+				<h1>Familias Lógicas</h1>
+				<p>Marie González-Inostroza</p>
+
+			</section>
+			<section>
+				<h3>Familias lógicas</h3>
+				<p class="fragment">Conjuntos de circuitos integrados de cierta tecnología de fabricación.</p>
+				<p class="fragment">Cada una comparte características como velocidad de conmutación, consumo de energía, tolerancia al ruido y otras.</p>
+				
+			</section>
+
+			<section>
+				<h6>RTL: Resistor-Transistor Logic</h6>
+				<div class="row">
+					<div class="col">
+						<p>Utilizan Resistencias y Transistores</p>
+					</div>
+					<div class="col"> <img width="100%" src="images/C03/Inverter_RTL.svg">
+					</div>
+				</div>
+
+			</section>
+
+			<section>
+				<h6>DTL: Diode-Transistor Logic</h6>
+				<div class="row">
+					<div class="col">
+						<p> Utilizan Diodos y Transistores</p>
+					</div>
+					<div class="col"> <img width="100%" src="images/C03/Inverter_DTL.svg">
+					</div>
+				</div>
+
+			</section>
+
+			<section>
+				<h6>TTL: Transistor-Transistor Logic</h6>
+				<div class="row">
+					<div class="col">
+						<p> Transistores BJT</p>
+					</div>
+					<div class="col"> <img width="100%" src="images/C03/Inverter_TTL.svg">
+					</div>
+				</div>
+
+			</section>
+
+			<section>
+				<h6>CMOS: Complementary metal oxide semiconductor Logic</h6>
+				<div class="row">
+					<div class="col">
+						<p> Transistores n-mos y p-mos</p>
+					</div>
+					<div class="col"> <img height="100%" src="images/C03/Inverter_CMOS.svg">
+					</div>
+				</div>
+
+			</section>
+
+
+			<section>
+				<section>
+
+					<h1>Respuestas Unidad</h1>
+				</section>
+
+				<section>
+
+					<h6> Para valores conocidos de las entradas y la resistencia ¿Cuántos circuitos equivalentes
+						posibles hay para el siguiente circuito?</h6>
+					<div class="row">
+						<div class="col">
+							<img class="r-stretch" src="images/C02/CircuitoMaxOff.svg">
+						</div>
+						<div class="col">
+							<ol class="alphaList">
+								<li>1</li>
+								<li>2</li>
+								<li><b>4</b></li>
+								<li>8</li>
+							</ol>
+
+						</div>
+					</div>
+				</section>
+
+				<section>
+
+
+					<h6> Si ambas entradas son de 0V y R=10K ¿Cuál es el voltaje de salida?. Considera Vth=1.1V</h6>
+					<div class="row">
+						<div class="col">
+							<img class="r-stretch" src="images/C02/CircuitoMaxOff.svg">
+						</div>
+						<div class="col">
+							<ol class="alphaList">
+								<li><b>0V</b></li>
+								<li>1.1V</li>
+								<li>3.9V</li>
+								<li>5V</li>
+							</ol>
+
+						</div>
+					</div>
+
+				</section>
+
+				<section>
+
+
+					<h6> Si ambas entradas son de 5V y R=10 ¿Cuál es el voltaje de salida?. Considera Vth=1.1V</h6>
+					<div class="row">
+						<div class="col">
+							<img class="r-stretch" src="images/C02/CircuitoMaxOff.svg">
+						</div>
+						<div class="col">
+							<ol class="alphaList">
+								<li>0.5V</li>
+								<li>1.1V</li>
+								<li><b>3.9V</b></li>
+								<li>5V</li>
+							</ol>
+
+						</div>
+					</div>
+
+				</section>
+			</section>
+
+		</div>
+
+
+
+	</div>
+
+	<script src="dist/reveal.js"></script>
+	<script src="plugin/notes/notes.js"></script>
+	<script src="plugin/markdown/markdown.js"></script>
+	<script src="plugin/highlight/highlight.js"></script>
+	<script src="plugin/countdown/countdown.js"></script>
+	<script src="plugin/animate/plugin.js"></script>
+	<script src="plugin/animate/svg.min.js"></script>
+	<script src="plugin/math/math.js"></script>
+	<script>
+		// More info about initialization & config:
+		// - https://revealjs.com/initialization/
+		// - https://revealjs.com/config/
+		Reveal.initialize({
+			slideNumber: true,
+			//autoAnimateEasing: 'ease-out',
+			autoAnimateDuration: 1.0,
+			//autoAnimateUnmatched: false
+			hash: true,
+			slideNumber: true,
+			animate: {
+				autoplay: true
+			},
+			dependencies: [
+
+				{ src: "plugin/countdown/countdown.js" },
+
+			],
+
+			// Learn about plugins: https://revealjs.com/plugins/
+			plugins: [RevealMath.KaTeX, RevealMarkdown, RevealHighlight, RevealNotes, RevealAnimate],
+			countdown: { defaultTime: 300, autostart: true },
+
+
+
+		});
+
+		Reveal.configure({ pdfSeparateFragments: false });
+	</script>
+</body>
+
+</html>

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="296.50696"
+   height="218.73091"
+   viewBox="0 0 296.50695 218.73091"
+   sodipodi:docname="Inverter_RTL.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <marker
+       style="overflow:visible"
+       id="Dot"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="3"
+       markerHeight="3"
+       viewBox="0 0 5.6666667 5.6666667"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="Dot1"
+         sodipodi:nodetypes="sssss" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2577"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1815"
+       is_visible="true"
+       lpeversion="1" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath262">
+      <path
+         d="m -11.90572,62.64648 h 23.81143 v 31.74838 h -23.81143 z m 23.81144,15.8742 c 0,6.5754 -5.33031,11.90571 -11.90572,11.90571 -6.57541,0 -11.90572,-5.33031 -11.90572,-11.90571 0,-6.57543 5.33031,-11.90572 11.90572,-11.90572 6.57541,0 11.90572,5.33029 11.90572,11.90572 z"
+         clip-rule="evenodd"
+         id="path260" />
+    </clipPath>
+    <marker
+       style="overflow:visible"
+       id="Dot-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="3"
+       markerHeight="3"
+       viewBox="0 0 5.6666667 5.6666667"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="Dot1-5"
+         sodipodi:nodetypes="sssss" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2577-2"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.1543537"
+     inkscape:cx="187.99141"
+     inkscape:cy="90.514384"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g46" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="Main"
+     transform="matrix(1.3333333,0,0,-1.3333333,-256.89874,877.76788)">
+    <g
+       id="g34"
+       transform="translate(201.256,476.228)">
+      <g
+         id="g36"
+         transform="matrix(1.11563,0,0,1.11563,142.17753,67.82542)">
+        <g
+           id="g38">
+          <g
+             id="g40" />
+          <g
+             id="g42">
+            <path
+               d="m -23.81145,0 h -12.27334 l -2.87816,-5.95285 -5.35782,11.9057 -5.35782,-11.9057 -5.3578,11.9057 -5.35782,-11.9057 -5.35782,11.9057 L -68.23169,0 h -12.27338 v 0 m 66.33168,84.122091 H 14.1734 M 0,-21.82706 v -5.66926"
+               style="fill:none;stroke:#000000;stroke-width:2.0168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path44"
+               sodipodi:nodetypes="ccccccccccccccc" />
+            <g
+               id="g46"
+               style="stroke-width:2.0168;stroke-dasharray:none">
+              <g
+                 id="g48"
+                 style="stroke-width:2.0168;stroke-dasharray:none">
+                <path
+                   d="M -11.90572,3.27391 0,8.73067 v 13.29563 8.359305 l -6.1163868,3.07741 11.9057,5.35782 -11.9057,5.35782 11.9057,5.3578 -11.9057,5.35782 11.9057,5.35782 -5.8710816,2.536647 L 0,84.122091"
+                   style="fill:none;stroke:#000000;stroke-width:2.0168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   id="path50"
+                   sodipodi:nodetypes="cccccccccccc" />
+                <g
+                   id="g52"
+                   style="stroke-width:2.0168;stroke-dasharray:none">
+                  <path
+                     d="M -11.90572,8.73067 V -8.73067"
+                     style="fill:none;stroke:#000000;stroke-width:2.0168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path54" />
+                </g>
+                <path
+                   d="M -11.90572,-3.27391 0,-8.73067 V -22.0263"
+                   style="fill:none;stroke:#000000;stroke-width:2.0168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   id="path56" />
+                <g
+                   id="g58"
+                   style="stroke-width:2.0168;stroke-dasharray:none">
+                  <g
+                     id="g60"
+                     style="stroke-width:2.0168;stroke-dasharray:none">
+                    <path
+                       d="m -7.71225,-5.19592 0.95276,2.07878 3.6927,-4.20789 -5.59821,0.05033 z"
+                       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.0168;stroke-dasharray:none"
+                       id="path62" />
+                  </g>
+                  <g
+                     id="g64"
+                     transform="matrix(0.90903,-0.41663,0.41663,0.90903,-5.953,-6.002)"
+                     style="stroke-width:2.01688;stroke-dasharray:none">
+                    <g
+                       id="g66"
+                       style="stroke-width:2.01688;stroke-dasharray:none" />
+                    <g
+                       id="g68"
+                       transform="translate(5.953,6.002)"
+                       style="stroke-width:2.01688;stroke-dasharray:none" />
+                  </g>
+                </g>
+                <path
+                   d="M -11.90572,0 H -24.0107"
+                   style="fill:none;stroke:#000000;stroke-width:2.0168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   id="path70" />
+              </g>
+              <g
+                 id="g72"
+                 transform="translate(1.984)"
+                 style="stroke-width:2.0168;stroke-dasharray:none">
+                <g
+                   id="g74"
+                   style="stroke-width:2.0168;stroke-dasharray:none" />
+                <g
+                   id="g76"
+                   transform="translate(-1.984)"
+                   style="stroke-width:2.0168;stroke-dasharray:none" />
+              </g>
+            </g>
+            <g
+               id="g78" />
+            <g
+               id="g80" />
+            <g
+               id="g82"
+               style="stroke-width:2.0168;stroke-dasharray:none">
+              <g
+                 id="g84"
+                 style="stroke-width:2.0168;stroke-dasharray:none" />
+              <g
+                 id="g88"
+                 transform="rotate(180,-26.079,0)"
+                 style="stroke-width:2.0168;stroke-dasharray:none">
+                <g
+                   id="g90"
+                   style="stroke-width:2.0168;stroke-dasharray:none" />
+                <g
+                   id="g92"
+                   transform="translate(52.158)"
+                   style="stroke-width:2.0168;stroke-dasharray:none" />
+              </g>
+            </g>
+            <g
+               id="g94" />
+            <g
+               id="g96" />
+            <g
+               id="g98" />
+            <g
+               id="g120" />
+            <g
+               id="g122" />
+            <g
+               id="g156" />
+            <g
+               id="g158" />
+            <g
+               id="g188" />
+            <g
+               id="g190" />
+            <g
+               id="g204" />
+            <g
+               id="g206" />
+            <g
+               id="g208" />
+            <g
+               id="g246" />
+            <g
+               id="g248" />
+            <g
+               id="g290">
+              <g
+                 id="g292"
+                 transform="translate(-9.393,139.184)">
+                <g
+                   id="g294">
+                  <g
+                     id="g296"
+                     transform="translate(-347.548,-691.212)">
+                    <text
+                       xml:space="preserve"
+                       transform="scale(1,-1)"
+                       style="font-variant:normal;font-weight:normal;font-size:19.7198px;font-family:TeXGyreTermesX;-inkscape-font-specification:TeXGyreTermesX-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                       id="text300"
+                       x="339.2186"
+                       y="-640.11938"><tspan
+                         x="339.2186"
+                         sodipodi:role="line"
+                         id="tspan298"
+                         y="-640.11938">Vcc</tspan></text>
+                    <g
+                       id="g302"
+                       transform="translate(347.548,691.212)" />
+                  </g>
+                </g>
+                <g
+                   id="g304"
+                   transform="translate(9.393,-139.184)" />
+              </g>
+            </g>
+            <g
+               id="g306"
+               style="stroke-width:2.0168;stroke-dasharray:none">
+              <g
+                 id="g308"
+                 style="stroke-width:2.0168;stroke-dasharray:none">
+                <g
+                   id="g310"
+                   style="stroke-width:2.0168;stroke-dasharray:none">
+                  <path
+                     d="M 0,-24.6617 V -36.56728"
+                     style="fill:none;stroke:#000000;stroke-width:2.0168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path312" />
+                  <path
+                     d="M -9.4334845,-36.56728 H 9.4334845 M -6.2888522,-40.087635 H 6.2888523 m -10.2194166,-3.520622 h 7.8611287"
+                     style="fill:none;stroke:#000000;stroke-width:2.0168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                     id="path314" />
+                </g>
+              </g>
+              <g
+                 id="g316"
+                 transform="translate(0,-24.661)"
+                 style="stroke-width:2.0168;stroke-dasharray:none">
+                <g
+                   id="g318"
+                   style="stroke-width:2.0168;stroke-dasharray:none" />
+                <g
+                   id="g320"
+                   transform="translate(0,24.661)"
+                   style="stroke-width:2.0168;stroke-dasharray:none" />
+              </g>
+            </g>
+            <g
+               id="g82-2"
+               transform="rotate(-90,-2.8317358,-2.668199)">
+              <g
+                 id="g84-0" />
+              <g
+                 id="g88-8"
+                 transform="rotate(180,-26.079,0)">
+                <g
+                   id="g90-8" />
+                <g
+                   id="g92-2"
+                   transform="translate(52.158)" />
+              </g>
+            </g>
+            <g
+               id="g290-9"
+               transform="translate(-111.37483,-92.000268)">
+              <g
+                 id="g292-8"
+                 transform="translate(-9.393,139.184)">
+                <g
+                   id="g294-0">
+                  <g
+                     id="g296-8"
+                     transform="translate(-347.548,-691.212)">
+                    <text
+                       xml:space="preserve"
+                       transform="scale(1,-1)"
+                       style="font-variant:normal;font-weight:normal;font-size:19.7198px;font-family:TeXGyreTermesX;-inkscape-font-specification:TeXGyreTermesX-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                       id="text300-7"
+                       x="332.93155"
+                       y="-636.89496"><tspan
+                         x="332.93155"
+                         sodipodi:role="line"
+                         id="tspan298-3"
+                         y="-636.89496"
+                         style="font-size:19.7198px">Vin</tspan></text>
+                    <g
+                       id="g302-9"
+                       transform="translate(347.548,691.212)" />
+                  </g>
+                  <g
+                     id="g290-2"
+                     transform="translate(149.04132,-126.37932)">
+                    <g
+                       id="g292-7"
+                       transform="translate(-9.393,139.184)">
+                      <g
+                         id="g294-4">
+                        <g
+                           id="g296-9"
+                           transform="translate(-347.548,-691.212)">
+                          <text
+                             xml:space="preserve"
+                             transform="scale(1,-1)"
+                             style="font-variant:normal;font-weight:normal;font-size:19.7198px;font-family:TeXGyreTermesX;-inkscape-font-specification:TeXGyreTermesX-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                             id="text300-5"
+                             x="348.53406"
+                             y="-633.87927"><tspan
+                               x="348.53406"
+                               sodipodi:role="line"
+                               id="tspan298-5"
+                               y="-633.87927"
+                               style="font-size:19.7198px">Vout</tspan></text>
+                          <g
+                             id="g302-0"
+                             transform="translate(347.548,691.212)" />
+                        </g>
+                      </g>
+                      <g
+                         id="g304-5"
+                         transform="translate(9.393,-139.184)" />
+                    </g>
+                  </g>
+                  <path
+                     style="fill:none;fill-opacity:0.300231;stroke:#000000;stroke-width:2.0168;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;marker-end:url(#Dot)"
+                     d="m 120.76783,-25.157429 21.25324,0.122279"
+                     id="path2575"
+                     inkscape:path-effect="#path-effect2577"
+                     inkscape:original-d="m 120.76783,-25.157429 21.25324,0.122279" />
+                </g>
+                <g
+                   id="g304-9"
+                   transform="translate(9.393,-139.184)" />
+              </g>
+            </g>
+            <path
+               style="fill:none;fill-opacity:0.300231;stroke:#000000;stroke-width:2.0168;stroke-linejoin:bevel;stroke-miterlimit:4.4;stroke-dasharray:none;marker-end:url(#Dot-6)"
+               d="m -78.460352,-0.03879402 -21.253239,0.122279"
+               id="path2575-5"
+               inkscape:path-effect="#path-effect2577-2"
+               inkscape:original-d="m -78.460352,-0.03879402 -21.253239,0.122279" />
+          </g>
+        </g>
+        <g
+           id="g370"
+           transform="translate(-155.685,-75.8)" />
+      </g>
+    </g>
+  </g>
+</svg>
