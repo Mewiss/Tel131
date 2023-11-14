@@ -99,8 +99,9 @@
 			<section>
 				<h3>Familias lógicas</h3>
 				<p class="fragment">Conjuntos de circuitos integrados de cierta tecnología de fabricación.</p>
-				<p class="fragment">Cada una comparte características como velocidad de conmutación, consumo de energía, tolerancia al ruido y otras.</p>
-				
+				<p class="fragment">Cada una comparte características como velocidad de conmutación, consumo de energía,
+					tolerancia al ruido y otras.</p>
+
 			</section>
 
 			<section>
@@ -151,27 +152,73 @@
 
 			</section>
 
+			<section>
+				<h6>En parejas</h6>
+				<p>Analicen los circuitos negadores TTL y CMOS y respondan</p>
+				<ul>
+					<li>Para entradas ideales ¿En qué estado se encuentran los transistores</li>
+					<li>¿Qué diferencias de potencia creen que tiene cada compuerta?</li>
+				</ul>
+
+			</section>
 
 			<section>
 				<section>
 
-					<h1>Respuestas Unidad</h1>
-				</section>
-
-				<section>
-
-					<h6> Para valores conocidos de las entradas y la resistencia ¿Cuántos circuitos equivalentes
-						posibles hay para el siguiente circuito?</h6>
+					<h6> ¿A qué familia corresponde la siguiente compuerta?</h6>
 					<div class="row">
 						<div class="col">
-							<img class="r-stretch" src="images/C02/CircuitoMaxOff.svg">
+							<img class="r-stretch" src="images/C03/Inverter_DTL.svg">
 						</div>
 						<div class="col">
 							<ol class="alphaList">
-								<li>1</li>
-								<li>2</li>
-								<li><b>4</b></li>
-								<li>8</li>
+								<li>DTL</li>
+								<li>RTL</li>
+								<li>TTL</li>
+								<li>CMOS</li>
+
+							</ol>
+
+						</div>
+					</div>
+				</section>
+
+
+				<section>
+
+					<h6> ¿A qué familia corresponde la siguiente compuerta?</h6>
+					<div class="row">
+						<div class="col">
+							<img class="r-stretch" src="images/C03/Inverter_CMOS.svg">
+						</div>
+						<div class="col">
+							<ol class="alphaList">
+								<li>DTL</li>
+								<li>RTL</li>
+								<li>TTL</li>
+								<li>CMOS</li>
+
+							</ol>
+
+						</div>
+					</div>
+				</section>
+
+
+				<section>
+
+					<h6> ¿A qué familia corresponde la siguiente compuerta?</h6>
+					<div class="row">
+						<div class="col">
+							<img class="r-stretch" src="images/C03/Inverter_TTL.svg">
+						</div>
+						<div class="col">
+							<ol class="alphaList">
+								<li>DTL</li>
+								<li>RTL</li>
+								<li>TTL</li>
+								<li>CMOS</li>
+
 							</ol>
 
 						</div>
@@ -180,45 +227,316 @@
 
 				<section>
 
-
-					<h6> Si ambas entradas son de 0V y R=10K ¿Cuál es el voltaje de salida?. Considera Vth=1.1V</h6>
 					<div class="row">
-						<div class="col">
-							<img class="r-stretch" src="images/C02/CircuitoMaxOff.svg">
-						</div>
-						<div class="col">
-							<ol class="alphaList">
-								<li><b>0V</b></li>
-								<li>1.1V</li>
-								<li>3.9V</li>
-								<li>5V</li>
-							</ol>
 
+						<div class="col"> <img height="100%" src="images/C03/Inverter_TTL.svg">
 						</div>
-					</div>
+						<div class="col"> <img height="100%" src="images/C03/Inverter_CMOS.svg">
+						</div>
 
+
+				</section>
+
+			</section>
+
+			<section>
+				<section>
+					<h5>Estructuras CMOS</h5>
 				</section>
 
 				<section>
 
-
-					<h6> Si ambas entradas son de 5V y R=10 ¿Cuál es el voltaje de salida?. Considera Vth=1.1V</h6>
 					<div class="row">
-						<div class="col">
-							<img class="r-stretch" src="images/C02/CircuitoMaxOff.svg">
+						<div class="col"> <img height="100%" src="images/C03/inversor_nmos.png">
 						</div>
-						<div class="col">
-							<ol class="alphaList">
-								<li>0.5V</li>
-								<li>1.1V</li>
-								<li><b>3.9V</b></li>
-								<li>5V</li>
-							</ol>
+						<div class="col"> <img height="100%" src="images/C03/inversor_cmos.png">
+						</div>
 
-						</div>
-					</div>
 
 				</section>
+
+
+				<section>
+					<div class="row">
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/inversor_nmos.png"></div>
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/inversor_cmos.png"></div>
+					</div>
+				</section>
+
+
+				<section>
+
+					<div class="row">
+						<div class="col"> <img class="fragment r-stretch" src="images/C03/nan.png"></div>
+						<div class="col"> <img class="fragment r-stretch" src="images/C03/nand_nmos.png"></div>
+						<div class="col"> <img class="fragment r-stretch" src="images/C03/nand_cmos.png"></div>
+					</div>
+				</section>
+
+
+				<section>
+					<div class="row">
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/and.png"></div>
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/and_cmos.png"></div>
+					</div>
+				</section>
+
+				<section>
+					<div class="row">
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/nor.png"></div>
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/nor_cmos.png"></div>
+					</div>
+				</section>
+
+				<section>
+					<div class="row">
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/or.png"></div>
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/or_cmos.png"></div>
+					</div>
+				</section>
+
+				<section>
+					<div class="row">
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/buffer.png"></div>
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/buffer_norcmor.png"></div>
+					</div>
+				</section>
+
+
+				<section>
+					<h5>Preparando la Tarea 4</h5>
+					<ol>
+						<li>Inscribe a tu pareja de trabajo en el link</li>
+						<li>Descarga los archivos de la clase</li>
+						<li>Con la ayuda de MultiSim, obtén la función de transferencia del inversor CMOS</li>
+						<li>Define los mejores parámetros VIH, VIL, VOH, VOL que podría tener este inversor</li>
+
+					</ol>
+
+				</section>
+
+				<section>
+					<h5>Preparando la Tarea 4</h5>
+					<ol>
+
+						<li>Arma la compuerta CMOS asignada</li>
+						<li>Con la ayuda de MultiSim, obtén la función de transferencia de tu compuerta</li>
+						<li>Define los mejores parámetros VIH, VIL, VOH, VOL que podría tener tu compuerta</li>
+					</ol>
+
+				</section>
+
+			</section>
+
+
+
+
+			<section>
+				<section>
+					<h5>Estructuras TTL</h5>
+				</section>
+				<section>
+					<div class="row">
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/Inverter_TTL.svg"></div>
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/inversor_ttl.png"></div>
+					</div>
+				</section>
+
+				<section>
+					<div class="row">
+
+						<div class="col"> <img height="100%" src="images/C03/inversor_ttl.png"></div>
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/inversor_ttl_FT.png">
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<h4>Resistencias recomendadas</h4>
+					<div class="row">
+
+						<div class="col">
+							<ol>Opción 1
+								<li>R1=4k
+
+								</li>
+								<li>
+									R2=1.6k
+								</li>
+
+
+								<li>
+									R3=1k
+								</li>
+
+								<li>
+									R4=100
+								</li>
+							</ol>
+						</div>
+
+
+						<div class="col">
+							<ol>Opción 1
+								<li>R1=40k
+
+								</li>
+								<li>
+									R2=20k
+								</li>
+
+
+								<li>
+									R3=12k
+								</li>
+
+								<li>
+									R4=500
+								</li>
+							</ol>
+						</div>
+
+					</div>
+				</section>
+
+				<section>
+					<h5>Colector Abierto (Open Collector)</h5>
+					<div class="row">
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/inversor_ttl.png"></div>
+
+							<div class="col"> <img class="fragment" height="100%"
+									src="images/C03/inversor_opencollector.png">
+							</div>
+						</div>
+				</section>
+
+
+				<section>
+					<h5>Colector Abierto (Open Collector)</h5>
+					<div class="row">
+						<div class="col">
+							<h6>Not TTL Collector abierto</h6>
+							<img height="100%" src="images/C03/inversor_opencollector.png">
+						</div>
+						<div class="col">
+							<h6>NAND TTL Collector abierto</h6>
+							<img class="fragment" height="100%" src="images/C03/nand_collectorabierto.png">
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<h5>BJT con múltiple emiso</h5>
+					<img height="100%" src="images/C03/multipleemisor.png">
+				</section>
+
+				<section>
+					<div class="row">
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/and.png"></div>
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/and_ttl.png"></div>
+					</div>
+				</section>
+
+				<section>
+					<div class="row">
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/nor.png"></div>
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/nor_ttl.png"></div>
+					</div>
+				</section>
+
+				<section>
+					<div class="row">
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/or.png"></div>
+						<div class="col"> <img class="fragment" height="100%" src="images/C03/or_ttl.png"></div>
+					</div>
+				</section>
+
+
+
+
+
+
+
+
+
+			</section>
+
+
+
+
+
+			<section>
+
+
+
+
+
+
+
+				<h1>Respuestas Unidad</h1>
+			</section>
+
+			<section>
+
+				<h6> Para valores conocidos de las entradas y la resistencia ¿Cuántos circuitos equivalentes
+					posibles hay para el siguiente circuito?</h6>
+				<div class="row">
+					<div class="col">
+						<img class="r-stretch" src="images/C02/CircuitoMaxOff.svg">
+					</div>
+					<div class="col">
+						<ol class="alphaList">
+							<li>1</li>
+							<li>2</li>
+							<li><b>4</b></li>
+							<li>8</li>
+						</ol>
+
+					</div>
+				</div>
+			</section>
+
+			<section>
+
+
+				<h6> Si ambas entradas son de 0V y R=10K ¿Cuál es el voltaje de salida?. Considera Vth=1.1V</h6>
+				<div class="row">
+					<div class="col">
+						<img class="r-stretch" src="images/C02/CircuitoMaxOff.svg">
+					</div>
+					<div class="col">
+						<ol class="alphaList">
+							<li><b>0V</b></li>
+							<li>1.1V</li>
+							<li>3.9V</li>
+							<li>5V</li>
+						</ol>
+
+					</div>
+				</div>
+
+			</section>
+
+			<section>
+
+
+				<h6> Si ambas entradas son de 5V y R=10 ¿Cuál es el voltaje de salida?. Considera Vth=1.1V</h6>
+				<div class="row">
+					<div class="col">
+						<img class="r-stretch" src="images/C02/CircuitoMaxOff.svg">
+					</div>
+					<div class="col">
+						<ol class="alphaList">
+							<li>0.5V</li>
+							<li>1.1V</li>
+							<li><b>3.9V</b></li>
+							<li>5V</li>
+						</ol>
+
+					</div>
+				</div>
+
+			</section>
 			</section>
 
 		</div>
