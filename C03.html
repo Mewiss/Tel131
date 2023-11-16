@@ -404,10 +404,10 @@
 					<div class="row">
 						<div class="col"> <img class="fragment" height="100%" src="images/C03/inversor_ttl.png"></div>
 
-							<div class="col"> <img class="fragment" height="100%"
-									src="images/C03/inversor_opencollector.png">
-							</div>
+						<div class="col"> <img class="fragment" height="100%"
+								src="images/C03/inversor_opencollector.png">
 						</div>
+					</div>
 				</section>
 
 
@@ -457,6 +457,149 @@
 
 
 
+
+
+			</section>
+
+
+			<section>
+
+				<section>
+					<h2>
+						Modelo SRC del MOSFET
+					</h2>
+				</section>
+
+				<section>
+					<h6>Modelo SRC: Switch-Resistencia-Capacitor</h6>
+					<div class="row">
+						<div class="col">
+								<img height="400"   src="images/C03/SRC-OFF.svg">
+							
+								<p style="font-size: 26px">OFF: \[\begin{aligned} V_{GS}< V_{Th} \end{aligned} \] </p>
+							
+						</div>
+							<div class="col">
+
+								
+
+								<img  height="400" src="images/C03/SRC-ON.svg">
+								<p style="font-size: 26px">ON: \[\begin{aligned}V_{GS}\geq V_{Th} \end{aligned} \]</p>
+							</div>
+						</div>
+				</section>
+
+				<section>
+					<h6>Modelo SRC: Switch-Resistencia-Capacitor</h6>
+
+					<p> En parejas, discutan las siguientes preguntas:</p>
+					<ol>
+						<li>¿Cómo es el comportamiento en régimen permanente?</li>
+						<li>¿Cómo cambia el modelo cuando hay cambios en la entrada?</li>
+						<li>¿Cómo afecta a la potencia de una compuerta?</li>
+					</ol>
+
+				</section>
+
+
+			</section>
+
+			<section>
+
+				<section>
+					<h2>
+						Potencia en compuertas lógicas
+					</h2>
+				</section>
+
+
+				<section>
+					<h4>
+						Potencia en compuertas lógicas
+					</h4>
+
+					<div class="row">
+						<div class="col fragment">
+							<h6>Potencia estática</h6>
+							<p>Máxima potencia consumida al no haber cambios en la entrada de la compuerta lógica</p>
+						</div>
+
+						<div class="col fragment">
+							<h6>Potencia dinámica</h6>
+							<p>potencia consumida al haber cambios en la entrada a cierta frecuencia
+							</p>
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<h6>Potencia estática</h6>
+					<p>$P_S = V_{CC} * I_{CC}$</p>
+				</section>
+
+				<section>
+					<h6>Potencia dinámica en inversor CMOS</h6>
+					<p>$P_{dyn} = V_S^2 * C_L*f$</p>
+					<p>Donde $V_S$ es el voltaje de la fuente, $C_L$ es la capacitacia de carga y $f$ es la frecuencia con que cambia</p>
+				</section>
+
+
+
+
+
+			</section>
+
+
+
+
+
+
+
+			<section>
+
+				<section>
+					<h2>
+						Tiempo de propagación
+					</h2>
+				</section>
+
+
+				<section>
+					<h4>
+						Tiempo de propagación
+					</h4>
+
+					<ul>
+						<li class="fragment">
+							$t_{pd_{10}}$:Tiempo que tarda la compuerta en cambiar su salida desde un 1 lógico a un 0
+							lógico, a partir de un cambio en la entrada (Fall time)
+						</li>
+
+						<li class="fragment">
+							$t_{pd_{01}}$:Tiempo que tarda la compuerta en cambiar su salida desde un 0 lógico a un 1
+							lógico, a partir de un cambio en la entrada (Rise time)
+						</li>
+
+
+						<li class="fragment">
+							$t_{pd}$: Tiempo máximo que tarda la compuerta en modificar su valor, a partir de un cambio
+							en la entrada (Máximo entre los dos anteriores)
+
+						</li>
+					</ul>
+				</section>
+
+				<section>
+					<h6> Tiempo de propagación </h6>
+					<div class="r-stack r-stretch">
+						<img class="fragment" height="100%" src="images/C03/PropagationTime-1.svg">
+						<img class="fragment" height="100%" src="images/C03/PropagationTime-2.svg">
+						<img class="fragment" height="100%" src="images/C03/PropagationTime-3.svg">
+						<img class="fragment" height="100%" src="images/C03/PropagationTime-4.svg">
+						<img class="fragment" height="100%" src="images/C03/PropagationTime-5.svg">
+
+					</div>
+				</section>
 
 
 			</section>
