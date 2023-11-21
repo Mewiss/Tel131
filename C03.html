@@ -474,19 +474,19 @@
 					<h6>Modelo SRC: Switch-Resistencia-Capacitor</h6>
 					<div class="row">
 						<div class="col">
-								<img height="400"   src="images/C03/SRC-OFF.svg">
-							
-								<p style="font-size: 26px">OFF: \[\begin{aligned} V_{GS}< V_{Th} \end{aligned} \] </p>
-							
-						</div>
-							<div class="col">
+							<img height="400" src="images/C03/SRC-OFF.svg">
 
-								
+							<p style="font-size: 26px">OFF: \[\begin{aligned} V_{GS}< V_{Th} \end{aligned} \] </p>
 
-								<img  height="400" src="images/C03/SRC-ON.svg">
-								<p style="font-size: 26px">ON: \[\begin{aligned}V_{GS}\geq V_{Th} \end{aligned} \]</p>
-							</div>
 						</div>
+						<div class="col">
+
+
+
+							<img height="400" src="images/C03/SRC-ON.svg">
+							<p style="font-size: 26px">ON: \[\begin{aligned}V_{GS}\geq V_{Th} \end{aligned} \]</p>
+						</div>
+					</div>
 				</section>
 
 				<section>
@@ -533,14 +533,15 @@
 				</section>
 
 				<section>
-					<h6>Potencia estática</h6>
+					<h6>Potencia estática en TTL</h6>
 					<p>$P_S = V_{CC} * I_{CC}$</p>
 				</section>
 
 				<section>
 					<h6>Potencia dinámica en inversor CMOS</h6>
 					<p>$P_{dyn} = V_S^2 * C_L*f$</p>
-					<p>Donde $V_S$ es el voltaje de la fuente, $C_L$ es la capacitacia de carga y $f$ es la frecuencia con que cambia</p>
+					<p>Donde $V_S$ es el voltaje de la fuente, $C_L$ es la capacitacia de carga y $f$ es la frecuencia
+						con que cambia</p>
 				</section>
 
 
@@ -604,18 +605,127 @@
 
 			</section>
 
+			<section>
+				<section>
 
+					<h6> Si aumenta el voltaje de alimentación para una compuerta TTL ¿Qué ocurre con la potencia
+						estática?</h6>
+					<ol class="alphaList">
+						<li>Aumenta</li>
+						<li>Disminuye</li>
+						<li>Se mantiene</li>
+						<li>Depende de los modelos de transistores</li>
+					</ol>
 
+				</section>
 
+				<section>
+
+					<h6> Si aumenta la frecuencia de la señal de entrada para una compuerta CMOS ¿Qué ocurre con la
+						potencia estática?</h6>
+					<ol class="alphaList">
+						<li>Aumenta</li>
+						<li>Disminuye</li>
+						<li>Se mantiene</li>
+						<li>Depende de los modelos de MOSFET</li>
+					</ol>
+
+				</section>
+
+				<section>
+
+					<h6> Si aumenta la frecuencia de la señal de entrada para una compuerta CMOS ¿Qué ocurre con la
+						potencia dinámica?</h6>
+					<ol class="alphaList">
+						<li>Aumenta</li>
+						<li>Disminuye</li>
+						<li>Se mantiene</li>
+						<li>Depende de los modelos de MOSFET</li>
+					</ol>
+
+				</section>
+
+				<section>
+
+					<h6> Si aumenta la frecuencia de la señal de entrada para una compuerta CMOS ¿Qué ocurre con la
+						potencia dinámica?</h6>
+					<ol class="alphaList">
+						<li>Aumenta</li>
+						<li>Disminuye</li>
+						<li>Se mantiene</li>
+						<li>Depende de los modelos de MOSFET</li>
+					</ol>
+
+				</section>
+
+				<section>
+
+					<h6> La entrada de un inversor cambia de 0 a 1 ¿Cuánto tiempo después veremos el cambio en la señal
+						de salida?</h6>
+					<ol class="alphaList">
+						<li>0</li>
+						<li>$t_{pd_{10}}$</li>
+						<li>$t_{pd_{01}}$</li>
+						<li>$t_{pd}$</li>
+					</ol>
+
+				</section>
+			</section>
 
 			<section>
+				<section>
+					<h2>Capacitancia de carga CL</h2>
+				</section>
+
+				<section data-auto-animate>
+					<h6>Inversores en serie</h6>
+					<img class="r-stretch" height="100%" src="images/C03/CL_01.svg">
+				</section>
+
+
+				<section data-auto-animate>
+					<h6>Inversores en serie</h6>
+					<img class="r-stretch" height="100%" src="images/C03/Cl_02.svg">
+				</section>
+
+				<section data-auto-animate>
+					<h6>Inversores en serie</h6>
+					<img class="r-stretch" height="100%" src="images/C03/CL_03.svg">
+				</section>
+
+				<section data-auto-animate>
+					<h6>Inversores en serie</h6>
+					<img class="r-stretch" height="100%" src="images/C03/CL_04.svg">
+					<p>Las compuertas agregan capacitacia</p>
+				</section>
+
+
+				<section data-auto-animate>
+					<h6>Cables en un circuito integrado</h6>
+					<img class="r-stretch" height="100%" src="images/C03/CLwire_01.svg">
+				</section>
+
+
+				<section data-auto-animate>
+					<h6>Cables en un chip</h6>
+					<img class="r-stretch" height="100%" src="images/C03/CLwire_02.svg">
+				</section>
+
+
+
+				<section data-auto-animate>
+					<h6>Cables en un chip</h6>
+					<img class="r-stretch" height="100%" src="images/C03/CLwire_03.svg">
+				</section>
+
+
+			</section>
 
 
 
 
 
-
-
+			<!-- <section>
 				<h1>Respuestas Unidad</h1>
 			</section>
 
@@ -680,7 +790,7 @@
 				</div>
 
 			</section>
-			</section>
+			</section> -->
 
 		</div>
 
